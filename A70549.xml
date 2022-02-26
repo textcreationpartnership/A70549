@@ -1,0 +1,1511 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Catalogue of the library of choice books, Latin and English, of ... Dr. Richard Lee of Kings-Hatfield in Hartfordshire, deceased which will be exposed (to sale by way of auction, or out-cry, or who bids most) at the Parsonage-house in Hatfield, on Tuesday the 28th day of April, 1685.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1685</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 138 KB of XML-encoded text transcribed from 19 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A70549</idno>
+            <idno type="STC">Wing L886</idno>
+            <idno type="STC">ESTC R22556</idno>
+            <idno type="EEBO-CITATION">12571606</idno>
+            <idno type="OCLC">ocm 12571606</idno>
+            <idno type="VID">63472</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A70549)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 63472)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 322:9 or 1710:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Catalogue of the library of choice books, Latin and English, of ... Dr. Richard Lee of Kings-Hatfield in Hartfordshire, deceased which will be exposed (to sale by way of auction, or out-cry, or who bids most) at the Parsonage-house in Hatfield, on Tuesday the 28th day of April, 1685.</title>
+                  <author>Lee, Richard, 1611-1684.</author>
+               </titleStmt>
+               <extent>[4], 28 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1685.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"By the appointment and for the benefit of Mrs. Eliz. Lee."</note>
+                  <note>"Catalogues are distributed gratis at the coffee-houses in St. Albans, Hartford, Ware, Barnet; in Hatfield, at the White Lion, to all clergymen, gentlemen &amp;c. that please to send or call for them."</note>
+                  <note>Place of publication from BM.</note>
+                  <note>This item is found at reel 322:19 and reel 1710:10.</note>
+                  <note>Reproduction of originals in Bodleian Library and British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Lee, Richard, 1611-1684 --  Library --  Catalogs.</term>
+               <term>Book auctions --  Catalogs.</term>
+               <term>Catalogs, Booksellers'</term>
+               <term>Private libraries --  England --  Catalogs.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:63472:1"/>
+            <pb facs="tcp:63472:1" rendition="simple:additions"/>
+            <p>A CATALOGUE OF THE Library of Choice Books <hi>LATIN</hi> and <hi>ENGLISH,</hi> Of the Reverend and Learned Dr. RICHARD LEE, Of <hi>Kings-Hatfield</hi> in <hi>Hartfordſhire,</hi> deceaſed:</p>
+            <p>Which will be expoſed (to Sale by way of Auction, or Out-cry, or who bids moſt) at the Parſo<g ref="char:EOLhyphen"/>nage-houſe in <hi>Hatfield,</hi> on Tueſday the 28th Day of <hi>April,</hi> 1685.</p>
+            <p>By the Appointment, and for the Benefit of Mrs. <hi>Eliz. Lee.</hi>
+            </p>
+            <p>Catalogues are diſtributed <hi>gratis</hi> at the Coffee-Houſes in St. <hi>Albans, Hartford, Ware, Barnet;</hi> in <hi>Hatfield,</hi> at the White Lion, to all Clergymen, Gentlemen, <hi>&amp;c.</hi> that pleaſe to ſend or call for them. 1685.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:63472:2" rendition="simple:additions"/>
+            <pb facs="tcp:63472:2"/>
+            <head>To the READER.</head>
+            <p>THis Catalogue contains the Library of (Dr. <hi>Richard Lee</hi> of <hi>Kings-Hatfield</hi> in <hi>Hartfordſhire,</hi> lately decea<g ref="char:EOLhyphen"/>ſed) conſiſting of the various Editions of the Bible, in the Oriental Languages, ſeveral of the beſt Latin and Greek Fathers, Commentators Ancient and Modern, Latin and Engliſh, <hi>&amp;c.</hi> of the most general <g ref="char:V">Ʋ</g>ſe, and greateſt Eſteem in their time, in all Volumes, (will be expoſed to Sale by way of Auction, or who bids moſt) a Method of Sale ſo long practiſed, and ſtill continued in great reputation with the Re<g ref="char:EOLhyphen"/>verend and Learned Clergy of the City of <hi>London,</hi> that it hath incouraged and laid the Foundation of this attempt in the County of <hi>Hartford,</hi> not without ſome probable Proſpect that the Worthy and Intelligent Clergy thereof, will heartily countenance, and readily promote ſo commendable an Eſſay, ap<g ref="char:EOLhyphen"/>parently tending to the Improvement of Learning in general, and ſo experimentally ſerviceable, and really beneficial to the Relicts and Executors of Divines, and Gentlemen, in the diſpoſal of their Libraries.</p>
+            <p>This Sale will begin on Tueſday the 28th of <hi>April 1685.</hi> at the Parſo<g ref="char:EOLhyphen"/>nage-houſe in <hi>Hatfield,</hi> at One of the Clock exactly; and ſo continue daily, from <hi>9</hi> to <hi>12</hi> in the Morning, and from <hi>2</hi> to <hi>7</hi> in the Evening, till all the Books are ſold: Therefore all Clergymen, Gentlemen, <hi>&amp;c.</hi> are deſired to be preſent exactly at the hour of Sale, the Books being ſold in the order as Printed in the Catalogue, and thoſe uſually are, eſpecially in this, the choiceſt.</p>
+         </div>
+         <div type="notice">
+            <pb facs="tcp:63472:3"/>
+            <head>Conditions of Sale.</head>
+            <p n="1">I. THat he who bids moſt is the Buyer; and if any Difference ariſe, which the Company cannot decide, then the Book or Books ſhall forthwith be expoſed to Sale again.</p>
+            <p n="2">II. That all the Books in this Catalogue, not otherwiſe expreſſed, (for ought we know) are perfect; but if any of them appear to be otherwiſe before they be taken away, the Buyer ſhall have his Choice of taking or leaving them.</p>
+            <p n="3">III. That the Money for the Book or Books ſo bought, is to be paid by the Buyer at the time and place of Sale; where upon Pay<g ref="char:EOLhyphen"/>ment thereof, the Book or Books ſhall be delivered.</p>
+            <p n="4">IV. That the Books will be expoſed to view all Monday the 27th, and the preceding part of Tueſday, before the hour prefixt for Sale, to all Perſons that pleaſe to repair to the aforementioned Parſonage-houſe in <hi>Hatfield.</hi>
+            </p>
+            <p n="5">V. That for the Conveniency of Clergymen, Gentlemen, <hi>&amp;c.</hi> that cannot poſſibly be preſent in Perſon, or by Proxy, if they pleaſe to ſend their Commiſſion in time, with Directions to the Parſonage-houſe in <hi>Hatfield,</hi> a diſtinct account of the Number and Page of any Book or Books that they deſire to have bought, and the Price they will give, ſignifying their Names and place of Abode, it ſhall be faithfully ma<g ref="char:EOLhyphen"/>naged for them by the Perſons attending the Auction.</p>
+         </div>
+      </front>
+      <body>
+         <div type="catalogue">
+            <pb n="1" facs="tcp:63472:3"/>
+            <list>
+               <head>
+                  <hi>Libri Theologici.</hi> in Folio.</head>
+               <item>1 BIblia Sacra interlinearia Heb. Lat. una cum Novo Teſtamento Interlin. Graeco-latino &amp; Romanis-Correctionibus — Genev. 1612</item>
+               <item>2 — Septuaginta Graeco-latina cum ampliſſim. Lection. Nobilii. 2 vol. Par. 1628</item>
+               <item>3 — Latina cum libris Apocryphis Annotationib. Junii &amp; Tremellii Gen. 1617</item>
+               <item>4 —Hebraica Graeco-lat. Annotat. Vatabli. &amp; Novo Teſt. A. Mont. (opt. edit.) 2 vol. 1616</item>
+               <item>5 —Novum Teſtamentum Annotationib. Bezae &amp; Camerarii (optim. edit.) Cant. 1642</item>
+               <item>6 —Idem cum Annotationibus Heinſii acceſſit Ariſtarchus ſacer — Ludg. 1639</item>
+               <item>7 St. Ambroſii opera omnia ex editione Romana Correcta 2 vol. — Paris 1632</item>
+               <item>8 St. Greg. Magni Papae opera omnia 6 tomos diſtributa 2 vol. — Antw. 1615</item>
+               <item>9 D. Tertulliani opera omnia Annotat. Pamelii &amp; Merceri una cum vita ejus — Col. 1617</item>
+               <item>10 D. Cecil. Cypriani opera omnia collata editionib. Morellii &amp; Annotat. Pamelii Paris 1632</item>
+               <item>11 S. Optati Milevitani opera omnia obſervationibus &amp; Notis Gab. Albaſpinei ibid. 1631</item>
+               <item>12 J. Caſſiani opera omnia cum comment Alard. Gazaei in libros de Incarnat. Attreb. 1628</item>
+               <item>13 D. Aurel. Auguſtini opera omnia 10 tomis 5 vol. cum Indice &amp; Effig. St. Aug. Baſil 1569</item>
+               <item>14 Alexand. Alenſis univerſae Theologiae ſumma 4 partib. 3 vol. (opt. edit.) Col. 1622</item>
+               <item>15 S. Th. Aquinatis ſumma Theologiae 3 partes diſtributae — Par. 1638</item>
+               <item>16 J. Pinedae Commentaria ampliſſima in librum Jobi, 2 vol. — Col. 1605</item>
+               <item>17 Lud. Tenae Comment. &amp; Diſputat. in Epiſtol. ad Heb. ſive Criticorum vol. 10 Tolet 1612</item>
+               <item>18 Hug. Grotii Comment. omnia in vetus &amp; novum Teſtament (magna litera) 5 vol. Amſt. 1644</item>
+               <item>19 D. Parei opera omnia, viz. Commentaria exegetica &amp; adverſaria 3 vol. Franc. 1628</item>
+               <item>20 Gul. Eſtii Commentaria in quatuor libros ſentent. quatuor tomis uno volumine Par. 1638</item>
+               <item>21 —Ejuſdem in omnes Pauli &amp; aliorum Apoſt. Epiſtolas Commentaria — ibid. 1640</item>
+               <item>22 Fr. de Mendoca tomi. 3 Commentar. &amp; diſcurſ. moral. in libros Regum 3 vol. Col. 1634</item>
+               <item>23 Cor. Alapide Commentaria in Acta Apoſtol. &amp; Epiſt. Canon. &amp; Apocalypſin Antw. 1624</item>
+               <item>24 —Ejuſdem Commentaria in omnes Epiſtolas Pauli — ibid. 1627</item>
+               <item>25 —Ejuſdem Commentaria in Salomonis Proverbia (volumen rariſſimum) — 1635</item>
+               <item>26 —Ejuſdem Commentaria ampliſſima in Pentateuchum Moſis — 1630</item>
+               <item>27 —Ejuſdem in Prophetas duodecim minores — 1625</item>
+               <item>28 —Ejuſdem in quatuor Prophetas majores — 1625</item>
+               <item>29 —Ejuſdem Commentaria in Eccleſiaſticum — 1634</item>
+               <item>30 Expoſitio Catholica in Novum Teſtament. Marlorati &amp; aliorum — Gen. 1600</item>
+               <item>31 Joh. Maldonati Commentaria in quatuor Evangeliſtas cum Indicibus — Par. 1639</item>
+               <item>32 Franc. Riberae Commentarii in librum duodecim Prophetarum — Col. 1610</item>
+               <item>33 Fr. Lucae Brugenſis Commentaria in Evangelia, alii<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> Authoris, 2 vol. Antw. 1606</item>
+               <item>34 Joh. Calvini Commentarius in Pentateuchum &amp; in Joſuam — Gen. 1617</item>
+               <item>35 —Ejuſdem in librum Jobi conciones (volumen rariſſ. Calvini operum.) ibid. 1594</item>
+               <item>36 —Ejuſdem Commentarii in Iſaiam Prophetam — 1583</item>
+               <item>37 —Ejuſdem Praelectiones in Lamentat. Jeremiae &amp; in Danielem — 1576</item>
+               <item>38 —Ejuſdem Praelectiones in duodecim Prophetas minores — 1600</item>
+               <item>39 Sim. de Muis Commentarius Hiſtoricus &amp; literalis in Pſalmos, &amp;c. — Par. 1630</item>
+               <pb n="2" facs="tcp:63472:4"/>
+               <item>40 Johan. Janſenii Commentaria in ſuam Concordiam &amp; Hiſtoriam Evangel. — Mog. 1612</item>
+               <item>41 Balt. Paez Luſit. opera Comment. in Canticum Moſis, &amp;c. 2 vol. — Par. 1638</item>
+               <item>42 Anton. Velaſquez Commentarii &amp; Adnotat. in Philipenſes 2 tomis, — Antw. 1651</item>
+               <item>43 Mat. Poli Synopſis Criticorum, aliorum<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> S. Script. Interpret. 5 vol. incompact. Lond. 1669</item>
+               <item>44 Pet. Martyris loci communes Theologici (Charact nitidiſſ.) — ibid. 1583</item>
+               <item>45 H. Zanchii Miſcellanea Theologica, viz. de Perſeverant. Sanct. de Regula Eccleſiae, &amp;c.</item>
+               <item>46 Franc. Junii opera omnia Theologica, viz. Comment. in S. Script. &amp;c. 2 vol. Gen. 1613</item>
+               <item>47 R. Holdſworth Prelectiones Theologicae in Acad. Cantab. editae per D. Peirce Lond. 1661</item>
+               <item>48 Prideaux Lectiones de Capitib. Relig. &amp; Orationes inaugurales — Oxon. 1648</item>
+               <item>49 Sam. Wardi opera, viz. determinat. Theol. de Juſtificat. de peccato origin. &amp;c. Lond. 1658</item>
+               <item>50 Davenantii Prelectiones Theologicae de Juſtitia habituali, &amp;c. — Cant. 1630</item>
+               <item>51 —Ejuſdem determinationes Queſtionum quarundam Theologicarum — ibid. 1639</item>
+               <item>52 —Ejuſdem Expoſitio Epiſtolae D. Pauli ad Coloſſenſes — 1639</item>
+               <item>53 Joh. Cameronis Scoto Britanni opera variis Indicibus ornata — Gen. 1642</item>
+               <item>54 Per. Galatinus de Arcanis Catholicae veritat. cum Reuchlino de arte Cabaliſt. Baſil. 1561</item>
+               <item>55 Mart. Chemnitii Examen Concilii Tridentini ex Patrum Conſenſu — Gen. 1634</item>
+               <item>56 Joſ. Speranzae Scripturae ſelectae elucidatae ex Sententiis Patrum — Lugd. 1641</item>
+               <item>57 Alf. Avendana Hiſp. Commentaria in Evangelia (liber rariſſim.) 2 vol. Madrit. 1593</item>
+               <item>58 Fl. Illyrici Clavis S. Scripturae, ſeu de Sermone ſacrar. literarum — Baſil. 1580</item>
+               <item>59 Pet. Ravanelli Bibliotheca ſacra cum Additamentis cujuſ<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> partis 2 vol. — Gen. 1650</item>
+               <item>60 Pauli Sherlogi Dioptra Antiquitatum Hebraicarum, cum Indice — Lugd. 1651</item>
+               <item>61 Mat. Parkeri Antiquitates, una cum vitis Archiepiſcoporum Cantuarienſ Eccleſiae Han. 1605</item>
+               <item>62 Am. Polani Syntagma Theologiae Chriſtianae libros x digeſtum — Han. 1625</item>
+               <item>63 Ricard. Montacutii originum Eccleſiaſticarum 2 partes uno volumine — Lond. 1640</item>
+               <item>64 Iſ. Caſauboni Exercitationes 16 contra Baronium de rebus Eccleſiaſt. — ibid. 1630</item>
+               <item>65 Spalato de Republica Eccleſiaſtica, lib. 10. 3 vol. — ibid. 1630</item>
+               <item>66 Hen. Spondani Epitome Annalium Eccleſiaſticatum Gard. Baronii — Mog. 1623</item>
+               <item>67 Centuriatores Magdeburgenſ. ſive Hiſtoria Eccleſiaſt per Lucium edita 7 vol. Baſ. 1564</item>
+               <item>68 Jacob. Uſſerii Annales veteris &amp; novi Teſtamenti 2 vol. — Lond. 1650</item>
+               <item>69 St. Iſiodori Peluſiotae opera, viz. Epiſtolae Interpretat. J. Billii, &amp;c. gr. lat. — Com. 1615</item>
+               <item>70 S. Oecumenii &amp; Arethae opera omnia, viz. Commentaria 2 vol. Gr. Lat. Paris 1630</item>
+               <item>71 S. Baſilii Magni opera ommia cum Appendice 3 vol. gr. lat. — ibid. 1638</item>
+               <item>72 S. Cyrilli Hieroſolvmit. Archiepiſcopi opera cura Prevotii gr. lat. — ibid. 1631</item>
+               <item>73 Joh. Zonarae Commentarii in Canones Apoſtolor. &amp; Sacrorum Conciliorum gr. lat. ib. 1617</item>
+               <item>74 Val. Schindleri Lexicon Heptaglotton Heb. Chal. Syriacum, &amp;c. — Han. 1612</item>
+               <item>75 J. Buxtorfii Lexicon Chaldaicum), Talmudicum, Rabbinnicum, opus 30 Annorum Baſ. 1640</item>
+               <item>76 Minſhaei Dictionarium 9 linguarum cum explicat. vocum antiquarum Angl. Lond. 1627</item>
+               <item>77 Joh. Scapulae Lexicon graeco-latinum cum Indice Latino curâ Harmari — ibid. 1637</item>
+               <item>78 Mat. Martinii Lexicon Philologicum &amp; Etymologicum ſacrum (opt. edit.) Fr. 1655</item>
+               <item>79 Ch Helvici Theatrum Hiſtoricum &amp; Chronologicum continuat. per Schuppium Oxon. 1651</item>
+            </list>
+            <list>
+               <head>
+                  <hi>Libri Theologici</hi> in Quarto.</head>
+               <item>1 ANt. Tuckny Prelectiones Theolog. &amp; determinat. Quaeſt. variarum — Amſt. 1679</item>
+               <item>2 Joh. Rainoldi Cenſura libror. Apocryph. Vet. Teſtam. contra Pontific. 2 vol. op. 1611</item>
+               <item>3 —Ejuſdem de Idololatria Eccleſiae Roman. in cultu Sanctorum — Oxon. 1566</item>
+               <item>4 Conr. Vorſtii Commentarius in omnes Epiſtolas Apoſtolicas — Amſt. 1631</item>
+               <item>5 —Ejuſdem Antibellarminus contractus, id eſt, examen Card. Bellarmini — Han. 1610</item>
+               <item>6 Bythneri Analyſis Critico-practica Pſalmorum, Heb. Lat. — Lond. 1650</item>
+               <pb n="3" facs="tcp:63472:4"/>
+               <item>7 Frid. Spanhemii dubia Evangelica vindicat. contra Judeos, &amp;c. 2 vol, — Gen. 1639</item>
+               <item>8 —Ejuſdem diſputationum Theologicarum Miſcellan. viz. de Trinitate, &amp;c. ibid. 1652</item>
+               <item>9 Joh. Scharpii Symphonia Prophetarum &amp; Apoſtolorum — ibid. 1639</item>
+               <item>10 Georg. Groſſii Theatrum Biblicum, ſive vindicatio S. Scripturae — Baſ. 1615</item>
+               <item>11 Gul. Eſtii Adnotationes aureae in precipua loca difficiliorum S. Scripturae — Col. 1622</item>
+               <item>12 Acta Synodi nationalis dordrechti cum Judiciis Theolog. de 5 Articulis Dord. 1620</item>
+               <item>13 Frid. Balduini Luculentus tractatus de Caſibus Conſcientiae — 1654</item>
+               <item>14 Mich. Waltheri Harmonia Biblica, ſive plana expoſitio vet. &amp; novi Teſtament. 1654</item>
+               <item>15 Joh. Croii obſervationes in novum Fedus Hiſtoricae &amp; ſacrae — Genv. 1645</item>
+               <item>16 Abrah. Sculteti Medulla Theologiae Patrum 4 partib. (opt. edit.) — Franc. 1644</item>
+               <item>17 J. Cameronis Myrothecium Evangelicum cum ſpicilegio Capelli — Genev. 1632</item>
+               <item>18 Moſ. Pflacheri Analyſis Typica veteris &amp; novi Teſtamenti 2 vol. — Baſil. 1621</item>
+               <item>19 Cunrad. Diaterici Analyſis Evangeliorum Dominical. cum obſervation. 3 vol. Marp. 1631</item>
+               <item>20 Joh. Maccovii Collegia Theologica, viz. de ſtatu hominis, ante lapſum — Franc. 1641</item>
+               <item>21 Lud. de Deiu in totum novum Teſtament. Animadver. Heb. Syr. &amp;c. 3 vol. Lugdb. 1631</item>
+               <item>22 Paul. Eugubinus de efficaci Dei auxilio inter Catholicos — Patav. 1603</item>
+               <item>23 Zanchius de tribus Elohim aeterno Patre Filio, &amp;c. — Neuſt. 1597</item>
+               <item>24 Herbert de veritate prout diſtinguitur a Revelatione — Lond. 1633</item>
+               <item>25 Abrah. Sculteti Conciones in Epiſtolam ad Romanos — Heild. 1619</item>
+               <item>26 —Ejuſdem Conciones in Hebreos — Franc. 1616</item>
+               <item>27 —Ejuſdem Exercitationes in difficiliora loca Evangeliſtarum — Amſt. 1624</item>
+               <item>28 Arrowſmith Tractica ſacra, ſive de Milite Spirituali pugnante diſſertatio Cant. 1657</item>
+               <item>29 Prideaux Faſciculus controverſiarum Theologic. cum Synopſi Conciliorum Oxon. 1664</item>
+               <item>30 Gilb. Foliot Expoſitio in Cantica ex Bibliotheca Patricii Junii — Lond. 1638</item>
+               <item>31 Apocaiypſis S. Johan. ex MSS J. Scaligeri edita Charact. Syr. Heb. per de Deiu L.B. 1627</item>
+               <item>32 Joh. Brereley Apologia Proteſtantium pro Romana Eccleſia. — Lut. 1625</item>
+               <item>33 Alphonſi Hiſpani ſpeculum Conjugiorum, cum Appendice — Med. 1599</item>
+               <item>34 S. Polycarpi &amp; Ignatii Epiſtolae Graeco-latinae Notis Uſſerii Armachani — Oxon. 1644</item>
+               <item>35 S. Ignatii Martyris Epiſtolae genuinae una cum Epiſtola S. Barnabi curâ IS. Voſſii 1680</item>
+               <item>36 Rob. Abbot Exercitationes de Gratia &amp; Perſeverantia ſanctorum — Lond. 1618</item>
+               <item>37 Epiſc. Andrew Tortura Torti cum aliis opuſculis ejuſdem Arthoris — ib. 1609</item>
+               <item>38 David Dickſoni expoſitio analytica Apoſtolicarum Epiſtolarum — Glaſc. 1645</item>
+               <item>39 Mart. Lutheri loci communes Theologici in 5 Claſſes diſtributi — Lond. 1651</item>
+               <item>40 Gul. Outram de Sacrificiis Judaeorum &amp; Gentium Prophan. lib. 2. — ibid. 1677</item>
+               <item>41 Leighs Critica ſacra in vetus &amp; novum Teſtamentum 2 vol. — 1646</item>
+               <item>42 Oliv. Bowles de Paſtore Evangelico tractatus — 1649</item>
+               <item>43 Hen. Harphii Theologiae Myſticae lib. 3. — Col. 1611</item>
+               <item>44 Hen. Bullenger de AUtoritate Sanctae Scripturae, &amp;c. —</item>
+               <item>45 Tullii Juſtificatio Paulina ſine operibus ex mente Eccleſiae Angl. — Oxon. 1614</item>
+               <item>46 Haddoni Reformatio Legum Eccleſiaſticarum tempore Hen. 8. — Lond. 1940</item>
+               <item>47 Druſii Annotationes Praeteritae in totum novum Teſtament. &amp;c. — Franc. 1612</item>
+               <item>48 Lightfoote Horae Hebraicae &amp; Talumudicae in Marcum — Cant. 1663</item>
+               <item>49 Joh. Forbeſii Irenicum Amatoribus veritatis in Eccleſia Scotiana — Aberd. 1629</item>
+               <item>50 Rituale Romanum Paul. 5. Pontif. maximi juſſu editum — Paris 1635</item>
+               <item>51 Gatakeri diſſertatio de ſtylo novi Teſtamenti — Lond. 1648</item>
+               <item>52 Littletoni Dictionarius quadripartitus Linguae Latinae — ibid. 1678</item>
+               <item>53 Laurentii Vallae Elegantiarum Linguae Latinae — Paris 1527</item>
+               <item>54 Apoll. Niliaci libri 2. de ſacris Notis &amp; Sculpturis graecè — ibid. 1548</item>
+               <item>55 Nicandri Theriaca Graeco-latina graecè edit. Morellii — ibid. 1548</item>
+               <item>56 Arithmeticae Lilium liber antiquiſſimus —</item>
+               <pb n="4" facs="tcp:63472:5"/>
+               <item>57 Beverovicius de vitae termino an fatali, an mobili (ſecunda editio) — L. B. 1636</item>
+               <item>58 Zouch Elementa jurisprudentiae regulis &amp; definitionibus illuſtrata — Oxon. 1636</item>
+               <item>59 Gerard Voſſius de Hiſtoricis Graecis libri 4. — L. B. 1624</item>
+               <item>60 —Ejuſdem Theſes Hiſtoricae &amp; Theologicae de variis doctrinae. Capitib. — 1625</item>
+               <item>61 Gal. Cambdeni Brittannia ſive Chorographia deſcriptio Regni Angliae — 1600</item>
+               <item>62 Brerewood tractatus Ethici ſive Commentaria in Ariſt. Ethica — Oxon. 1640</item>
+               <item>63 Collardi Avium vivae &amp; curioſiſſimae Icones —</item>
+            </list>
+            <list>
+               <head>
+                  <hi>Libri Theologici</hi> in Octavo, Duodecimo, &amp;c.</head>
+               <item>64 A Meſii Lectiones in omnes Pſalmos Davidis (litera magna) — Amſt. 1635</item>
+               <item>65 —Ejuſdem Medulla Theologiae &amp; de veritate divinae fidei — Lond. 1630</item>
+               <item>66 —Coronis ad Collationem Hagienſem contra remonſtrantes — ibid. 1632</item>
+               <item>67 —Bellarmini Enervati 4 partes uno volumine — ibid. 1623</item>
+               <item>68 —Ejuſdem utriuſ<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> Epiſtolae Petri Explicatio Analytica — 1647</item>
+               <item>69 —Ejuſdem de Conſcientia &amp; ejus jure — Franc. 1635</item>
+               <item>70 —Ejuſdem Antiſynodalia ſcripta — Amſt. 1633</item>
+               <item>71 Annotationes in novum Teſtamentum per Epiſcopum Eboracenſem — Cant. 1653</item>
+               <item>72 Chriſt. Cartwright. Annotationes in Geneſin &amp; Exodum — Lond. 1947</item>
+               <item>73 Optati Afri Mileuitani lib. 6. de ſchiſmate donatiſtarum — Gen. 1579</item>
+               <item>74 Catechiſmus Catholicus Concilii Tridentini — Col. 169</item>
+               <item>75 —Alter ex decreto Concilii cum variis Patrum ſententiis — Par. 1635</item>
+               <item>76 Barth. Caranzae ſumma conciliorum omnium &amp; Pontificum — Rothom 1633</item>
+               <item>77 Joh. Calvini Harmonia in Evangel. in acta &amp; in Epiſtol. omnes 2 vol. — 1563</item>
+               <item>78 —Ejuſdem praelectiones in Prophetam Ezekielem — Gen. 1565</item>
+               <item>79 Bellarmini liber de ſcriptoribus Eccleſiaſt. &amp; Chronologia — Col. 1631</item>
+               <item>80 —Recognitio omnium librorum cum correctorio librorum — Ingolſ. 1608</item>
+               <item>81 St. Auguſtini Enchiridion de Hereſibus Danei notis — Genev. 1579</item>
+               <item>82 Eraſmi Paraphraſis in novum Teſtamentum 2 vol. — Baſil. 1534</item>
+               <item>83 —Chriſtiani Matrimonii Inſtitutio — ibid. 1526</item>
+               <item>84 —Vidua Chriſtiana de opificio Dei de Miſericordia, &amp;c. — 1529</item>
+               <item>85 P. Pricei Mattheus illuſtratus ex Graecis Patribus, &amp;c. — Paris 1646</item>
+               <item>86 —Ejuſdem Acta Apoſtolorum ex Patribus Graec. Lat. illuſtrat. — ibid. 1647</item>
+               <item>87 Theophylacti Ennarrationes in quatuor Evangel. in Epiſtol. &amp;c. 2 vol. — 1527</item>
+               <item>88 Thom. Aquinatis in omnes S. Paul. Epiſtolas 2 vol. — Lugd. 1556</item>
+               <item>89 S. Athanaſii, Baſilii Anaſtaſii, Cyrilli, &amp;c. Dialogi gr. lat. — Hemſt. 1570</item>
+               <item>90 Bucani Inſtitutiones Theologicae, ſive locorum communium Analyſis — Gen. 1630</item>
+               <item>91 Hemingius in Epiſtolas ad Rom. Marlorati Theſaur. Aretius in Epiſt. 3 vol. —</item>
+               <item>92 Ab. Sculteti Idea concionum in Iſaiam Prophetam — Geuv. 1618</item>
+               <item>93 Geminiani ſumma de exemplis ſimilitudinibus locupletiſſima — Antw. 1930</item>
+               <item>94 Waltheri Harmonia totius S. Script. ſive conciliatio locorum pugnantium — Arg. 1630</item>
+               <item>95 Catacheſis pro Adultioribus ſcripta per Hen. Bullingerum — Fig. 1561</item>
+               <item>96 Urſini Catechiſmus, ſive Compendium Chriſtianae Doctrinae — Lond. 1585</item>
+               <item>97 Thomſoni diatribae de amiſſione &amp; interciſſione gratiae — Lugdb. 1618</item>
+               <item>98 Fulgentii Epiſcopi opera ejuſ<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> vita P. Diaconus de incarnatione, &amp;c. — Baſil.</item>
+               <item>99 Roberti Stephani notae in novum Teſtamentum graecè —</item>
+               <item>100 Pet. Chryſologi Sermones in Evangelia de Dominicis — Col. 1627</item>
+               <item>101 Theod. Bezae Epiſtolarum Theologicarum liber unus — Gen. 1575</item>
+               <item>102 D. Cypriani opera cura Eraſmi —</item>
+               <item>103 Tullii Enchiridion Theologicum didacticum de Coenâ Domini — Oxon. 1683</item>
+               <pb n="5" facs="tcp:63472:5"/>
+               <item>104 Eccleſiaſtes Salomonis, ſive Concio Regia de ſummo bono hominis — Heild. 1626</item>
+               <item>105 Wallo Meſſalinus (alias Salmaſius) de Epiſcopis &amp; Presbyteris — Lugdb. 1641</item>
+               <item>106 Hug. Grotius de veritate Religionis Chriſtianae cum notis — Oxon. 1662</item>
+               <item>107 —Ejuſdem Annotata in Caſſandri Conſultationem — Lugdb. 1642</item>
+               <item>108 Carol. Borromei Paſtorum Inſtructiones — Antw. 1586</item>
+               <item>119 Hommii Diſputationes Theologicae contra Pontificios — Oxon. 1630</item>
+               <item>110 Marul. Spalatenſis beata inſtitutio vivendi ad normam Sanctorum — Col. 1630</item>
+               <item>111 Lutherus in Epiſtolas. Palladii Iſagoge ad libros Propheticos 2 vol. — 1577</item>
+               <item>112 G. Whitakeri tractatus de peccato originali — Lond. 1600</item>
+               <item>113 Wendelini libri duo Chriſtianae Thelogicae — Genev. 1645</item>
+               <item>114 Piſcatoris Scholia &amp; Obſervat. in Matth. Marcum Lucam Joh. Rom. 3 vol. —</item>
+               <item>115 Rob. Baronii Philoſophia Theologiae ancillans — Oxon. 1641</item>
+               <item>116 Sculteti delitiae Evangelicae, ſeu obſervat. in Hiſtoriam Chriſti — Han. 1620</item>
+               <item>117 Theologia Germannica libellus verè aureus — 1632</item>
+               <item>118 Ammonii Alexandrini Evangelici Canones — Mog.</item>
+               <item>129 Hieronym. oforius contra Haddonum ad Elizab. Angl. Reginam de Religione. 1569</item>
+               <item>120 Sulpit. Severi Hiſtoria ſacra continuata — L. B. 1626</item>
+               <item>121 Pet. Molinaei Enodatio graviſſ. Queſtionum de Providentia Dei, &amp;c. — ibid. 1632</item>
+               <item>122 J. Oweni Diatriba de Juſtitia divina — Oxon. 1653</item>
+               <item>123 Faſti Mariani cum Divorum Elogiis in ſingul. annos dies diſtribut. — Antw. 1617</item>
+               <item>124 Onſelii Prati floridiſſimi pars prima de Sanctis — ibid. 1617</item>
+               <item>125 Aurel. Peruſini Annalium Eccleſiaſtic. Caeſar. Baroni Epitome 2 vol. — Par. 1636</item>
+               <item>126 Edm. Campiani x rationes in cauſa Dei cum opuſculis Authoris — Antw. 1631</item>
+               <item>127 Epiſc. Chappelli methodus concionandi — Lond. 1647</item>
+               <item>128 T. B. vindicae Gratiae Sacramentalis una cum Epiſtola Davenantii — ibid. 1650</item>
+               <item>129 Enchiridon Chronologicum, ſive Epitome Annalium Eccleſ. Saliani — Par. 1636</item>
+               <item>130 Lanſpergii Pharetra divini Amoris — Col. 1607</item>
+               <item>131 Morini Dilucidatio Articulorum controverſ. fidei inter Reformatos, viz. Lutheranos, &amp;c.</item>
+               <item>132 Aurel. Auguſtini de Doctrina Chriſtiana lib. 4. — Ludgb. 1641</item>
+               <item>133 Vinc. Lirinenſis adverſis Prophanas Hereſes libri duo — Oxon. 1631</item>
+               <item>134 Hug. Grotius de veritate Religionis Chriſtianae — L. B. 1633</item>
+               <item>135 Davenantii Mortoni, &amp;c. Sententiae de Pace inter Evangel. procuranda — Amſt. 1636</item>
+               <item>136 Drexelii Conſiderationes de Eternitate figuris illuſtratae — Col. 1634</item>
+               <item>137 Anonymi diſſertatio de Pace &amp; Concordia Eccleſiae — Eleut. 1628</item>
+               <item>138 Deſid. Eraſmi Principis Chriſtiani Inſtitutio per Aphoriſmos digeſta — L. B. 1641</item>
+               <item>139 Schotti Adagialia Novi Teſtamenti ſelecta &amp; expoſita — Oxon. 1651</item>
+               <item>140 Sibbs Antidotum contra naufragium bonae conſcientiae — Lond. 1657</item>
+               <item>141 Eraſmus de immenſh Dei Miſericordia — L. B. 1641</item>
+               <item>142 Mart. Becani Compendium Manualis controverſiarum de fide, &amp;c. — Luxemb. 1625</item>
+               <item>143 Joh. Buxtorifii Lexicon Chaldaicum &amp; Hebraicum — Lond. 1646</item>
+               <item>144 —Idem cum Hebraeorum Commentariis Auctum — Baſil. 1631</item>
+               <item>145 Clenardi Grammatica Graeca Anteſignani Scholiis — Lond. 1612</item>
+               <item>146 Zehneri perſpicua explicatio Arboris Canonici de propinquitate Matrimonii — 1609</item>
+               <item>147 Wilh. Schicardi Horologium Hebraeum ſive Grammatica — Lond. 1639</item>
+               <item>148 Antonini Imperatoris de Seipſo Cafauboni Annotat. gr. lat. — ibid. 1643</item>
+               <item>149 Joh. Poſſelii Syntaxis graeca utiliſſimis exemplis illuſtrata — Cant. 1640</item>
+               <item>150 Waltoni Introductio ad Lectionem Linguarum orientalium — Lond. 1655</item>
+               <item>151 Manuale Hebraicum &amp; Chaldaicum continens ſignificationem verbor in Bibliis — 1616</item>
+               <item>152 Meric. Caſauboni de 4 linguis de linguâ Hebraica &amp; Saxonica — Lond. 1650</item>
+               <item>153 Eraſmi Colloquia emendatiora cum notis — Amſt. 1662</item>
+               <pb n="6" facs="tcp:63472:6"/>
+               <item>154 Coweli Inſtitutiones Juris Anglicani — Oxon. 1664</item>
+               <item>155 Pethrach de Remediis utriuſ<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> Fortunae — Bern. 1600</item>
+               <item>156 Arcandam ſeu doctor Alexandrinus de praedictionib. Aſtrologiae — Paris 1553</item>
+               <item>157 Ludovici vivis Introductio ad Sapientiam 24<hi rend="sup">o</hi> — Cant. 1643</item>
+               <item>158 Howelli Anglia ſuſpiria &amp; lacrymae ob horrendos Tumultos, &amp;c. 24<hi rend="sup">o</hi> — 1646</item>
+               <item>159 Euſtachii ſumma Philoſophiae quadripartita de rebus dialecticis — Cant. 1640</item>
+               <item>160 Hen. Mori Enchiridion Ethicum praecipue moralis Philoſoph. Rudimenta — 1668</item>
+               <item>161 Prideaux Hypomnemmata Logica, Rhetorica, Phyſica — Oxon.</item>
+               <item>162 Burgerſdicii Inſtitutionum Logicarum libri duo — Cant. 1637</item>
+               <item>163 Sanderſoni Phyſicae ſcientiae Compendium — Oxon. 1671</item>
+               <item>164 Golii Epitome Doctrinae moralis ſive Ethica — Cant. 1633</item>
+               <item>165 Euſtachii Ethica, ſive ſumma moralis Diſciplinae in tribus partibus — ibid. 1654</item>
+               <item>166 Inſtitutionum Logicarum libri duo per Burgerſdicium — ibid. 1668</item>
+               <item>167 Venerab. Bedae Axiomata Philoſophica — Col. 1618</item>
+               <item>168 Burgerſdicii Philoſophiae moralis Idea, ſive Compendioſa Inſtitutio — Amſt. 1650</item>
+               <item>169 Pet. Rami Dialecticae libri duo — Cant. 1640</item>
+            </list>
+            <list>
+               <head>
+                  <hi>Divinity</hi> in Folio.</head>
+               <item>1 BIble tranſlated by <hi>Tho. Matthew,</hi> dedicated to King <hi>Henry</hi> the Eighth — <hi>Lond.</hi> 1537</item>
+               <item>2 Aſſemblies Annotations, being an entire Commentary on the Bible, 2 vol. — ibid. 1651</item>
+               <item>3 Bp <hi>Andrews</hi> 96 Sermons on ſeveral occaſions — 4th Edition — 1641</item>
+               <item>4 —His Lectures on the 10 Commandments. with 19 Sermons, &amp;c. — 1642</item>
+               <item>5 —His Collections of Poſthumous and Orphan Lectures — 1657</item>
+               <item>6 Bp <hi>Jer. Taylor's Ductor dubitantium,</hi> or the Rule of Conſcience — 1671</item>
+               <item>7 —His courſe of Sermons for all the Sundays in the year — 1653</item>
+               <item>8 <hi>Tho. Taylor</hi>'s Works, <hi>viz.</hi> of Chriſt's Temptations, Rules for Chriſtian Practice, &amp;c. 1659</item>
+               <item>9 Bp <hi>Brownrig</hi>'s 65 Sermons on divers occaſions, 2 vol. — 1661 &amp; 1664</item>
+               <item>10 <hi>Tho. Horton</hi>'s 100 Sermons on ſeveral Texts of the Old and New Teſtament — 1659</item>
+               <item>11 <hi>Jo. Gauden</hi>'s Tears, Sighs, Complaints, and Prayers of the Church of <hi>England</hi> 1659</item>
+               <item>12 Bp <hi>Jo. Pearſon</hi>'s Expoſition of the Creed — 1662</item>
+               <item>13 Dr. <hi>Pet. Heylyn</hi>'s Sum of the Chriſtian Religion contained in the Apoſtles Creed 1654</item>
+               <item>14 —His Hiſtory of the Reformation of the Church of <hi>England</hi> — 1674</item>
+               <item>15 —His Life of Bp <hi>Laud,</hi> being an Eccleſiaſtical Hiſtory for his time — 1671</item>
+               <item>16 —His Hiſtory of the Presbyterians, from the year 1536 to 1647 — 1672</item>
+               <item>17 <hi>Euſebius</hi> his Eccleſiaſtical Hiſtory, with the Life of <hi>Conſtantine</hi> — 1636</item>
+               <item>18 <hi>Joſ. Mede</hi>'s Works compleat, 2 vol. — 1664</item>
+               <item>19 King <hi>James</hi> the Firſt, his Works compleat in one Volume — 1616</item>
+               <item>20 <hi>Mart. Luther</hi>'s Divine Diſcourſes at his Table, Engliſhed by <hi>H. Bell</hi> — 1652</item>
+               <item>21 <hi>Rich. Clerk</hi>'s Sermons collected and publiſhed by <hi>Tho. White</hi> — 1637</item>
+               <item>22 <hi>John</hi> and <hi>Francis White</hi>'s Works compleat in one Volume — 1624</item>
+               <item>23 <hi>Will. Pemble</hi>'s Works entire, the third Edition — 1635</item>
+               <item>24 <hi>Zach. <g ref="char:V">Ʋ</g>rſinus</hi> his Sum of the Chriſtian Religion, with Dr. <hi>Pareus</hi> Notes — 1645</item>
+               <item>25 <hi>Jo. Godolphin</hi>'s Holy Arbor, containing a body of Divinity — 1651</item>
+               <item>26 <hi>Herb. Thorndike</hi>'s Epilogue to the Tragedy of the Church of <hi>England</hi> — 1659</item>
+               <item>27 <hi>Rich. Hooker</hi>'s Laws of Eccleſiaſtical Polity, 5 Books, &amp;c. —</item>
+               <item>28 <hi>Hugh. Broughton</hi>'s View of the Holy Scriptures — 1640</item>
+               <pb n="7" facs="tcp:63472:6"/>
+               <item>29 Relation of the Conference between Bp <hi>Laud</hi> and Mr. <hi>Fiſher</hi> the Jeſuit — <hi>Lond.</hi> 1639</item>
+               <item>30 <hi>Edw. Leigh</hi>'s Syſtem, or body of Divinity, in 10 Books — 1654</item>
+               <item>31 —His Treatiſe of Religion and Learning in 6 Books — 1654</item>
+               <item>32 —His Philological and Theological Annotations on the New Teſtament — 1650</item>
+               <item>33 —His Annotations on <hi>Job, Pſalms, Proverbs, Eccleſiaſtes,</hi> and <hi>Canticles</hi> — 1657</item>
+               <item>34 <hi>Sa. Clarke</hi>'s Marrow of Divinity extracted from our beſt Engliſh Divines — 1659</item>
+               <item>35 —His general Martyrology, with the Lives of ſundry modern Divines — 1651</item>
+               <item>36 —His Collection of all the Perſecutions to the end of Q. <hi>Mary</hi>'s Reign — 1652</item>
+               <item>37 Bp <hi>
+                     <g ref="char:V">Ʋ</g>ſher</hi>'s Body of Divinity, with a Tract of the Incarnation — 1654</item>
+               <item>38 <hi>Tho. Fuller</hi>'s Hiſtory of the holy War and holy State, with figures — <hi>Camb.</hi> 1640</item>
+               <item>39 <hi>Will. Whately</hi>'s Prototypes applied to our Information and Reformation — 1640</item>
+               <item>46 <hi>Jo. Ball</hi>'s Power of Godlineſs practically handled — <hi>Lond.</hi> 1657</item>
+               <item>41 <hi>G. Langbane</hi>'s Review of the Council of <hi>Trent — Oxon.</hi> 1638</item>
+               <item>42 <hi>W. Perkins</hi> Works compleat in 3 volumes — <hi>Lond.</hi> 1631</item>
+               <item>43 <hi>W. Twiſſe</hi>'s Riches of God's Love in anſwer to <hi>Hoard</hi>'s God's Love to Mankind <hi>Oxf.</hi> 1653</item>
+               <item>44 <hi>Jo. Goodwin</hi>'s Redemption redeemed, with a diſcuſſion of Election and Reprobat. 1651</item>
+               <item>45 <hi>Geo. Kendall</hi>'s Anſwer to <hi>Jo. Goodwin</hi>'s Redemption redeemed — 1653</item>
+               <item>46 Dr. <hi>N. Homes</hi> Reſurrection revealed, or the dawning of the Day-ſtar — 1653</item>
+               <item>47 <hi>W. Strong</hi>'s Diſcourſe of the two Covenants of Works and of Grace — 1678</item>
+               <item>48 <hi>Tho. Gataker</hi>'s Sermons on ſeveral occaſions — 1637</item>
+               <item>49 <hi>Rich. Mountague</hi>'s Acts and Monuments of the Church before Chriſt — 1642</item>
+               <item>50 <hi>Jo. Fox</hi>'s Acts and Monuments of the Church, 3 vol. with his Life — 1641</item>
+               <item>51 <hi>G. Hakewell</hi>'s Apology of the Providence of God in the World — <hi>Oxf.</hi> 1627</item>
+               <item>52 <hi>Rich. Feild</hi> his 5 Books of the Church, the third Edition — <hi>ibib.</hi> 1635</item>
+               <item>53 <hi>Dan. Sympſon</hi>'s Hiſtory of the Church ſince our Saviour's time — <hi>Lond.</hi> 1634</item>
+               <item>54 <hi>Tho. Bilſon</hi>'s Survey of Chriſt's Sufferings for Man's Redemption — <hi>ibid.</hi> 1604</item>
+               <item>55 <hi>Tho. Reeves</hi> God's plea for <hi>Nineveh</hi> in ſundry Sermons — 1657</item>
+               <item>56 <hi>Tho. Shepherd</hi>'s Parable of the ten Virgins, opened in divers Sermons — 1663</item>
+               <item>57 <hi>W. Chillingworth</hi>'s Religion of the Proteſtants, a ſafe way to Salvation — 1638</item>
+               <item>58 <hi>Tho. Morton</hi> of the Inſtitution of the Maſs of Chriſt in 8 Books — 1631</item>
+               <item>59 Bp <hi>Downame</hi>'s Doctrine of Juſtification againſt the Papiſts — 1639</item>
+               <item>60 Bp <hi>Rob. Sanderſon</hi>'s 36 Sermons, the fifth Edition — 1671</item>
+               <item>61 St. <hi>Charnock</hi>'s ſeveral Diſcourſes on the Attributes of God — 1682</item>
+               <item>62 <hi>Anth. Burgeſs</hi> his Doctrine of Original Sin aſſerted and vindicated — 1659</item>
+               <item>63 —His Scripture Directory, or a Com. on the 31ſt Chap. of the 1ſt to the <hi>Corinth.</hi> 1659</item>
+               <item>64 —His ſpiritual refinings, or a Treatiſe of Grace and Aſſurance — 1652</item>
+               <item>65 —His 145 Sermons on the 17th Chapter of St. <hi>John</hi> — 1656</item>
+               <item>66 <hi>Rob. Gell</hi>'s Remains, or the explication of ſeveral hard Texts in the New Teſtament 1676</item>
+               <item>67 <hi>J. Owen</hi>'s Exercitations on the Epiſtle to the <hi>Hebrews,</hi> 1 vol. — 1668</item>
+               <item>68 —His Doctrine of the Saints Perſeverance — 1654</item>
+               <item>69 <hi>W. Gouge</hi>'s Commentary on the <hi>Hebrews,</hi> with his Life, 2 vol. — 1655</item>
+               <item>70 <hi>M. Fotherby's Atheomaſtix</hi> clearing 4 Truths againſt Atheiſts and Infidels — 1622</item>
+               <item>71 <hi>Willet</hi>'s Six-fold Commentary on the Book of <hi>Leviticus</hi> — 1631</item>
+               <item>72 <hi>Edw. Kellet</hi> of the Origination and Separation of the Soul — 1633</item>
+               <item>73 Bp <hi>Miles Smith</hi>'s Sermons on ſeveral occaſions — 1632</item>
+               <item>74 <hi>Tho. Manton</hi>'s Sermons on ſeveral Texts of Scripture, viz. on the 119 <hi>Pſal.</hi> &amp;c. 2 vol. 1684</item>
+               <item>75 <hi>Sa. Torſhell</hi>'s Commentaries on the Propheſy of <hi>Malachy</hi> — 1641</item>
+               <item>76 <hi>Crellius</hi> his Commentary on the <hi>Hebrews,</hi> Engliſhed by Dr. <hi>Luſhington</hi> — 1646</item>
+               <item>77 <hi>Joſ. Shute's Sarah</hi> and <hi>Hagar</hi> in ſix Sermons — 1646</item>
+               <item>78 <hi>Arth. Hilderſam</hi>'s 108 Lectures upon the 4th of St. <hi>John</hi> — 1647</item>
+               <pb n="8" facs="tcp:63472:7"/>
+               <item>79 —His 152 Lectures on the 51 <hi>Pſalm — Lond.</hi> 1642</item>
+               <item>80 <hi>Jo. White</hi>'s Commentary on the 3 firſt Chapters of <hi>Geneſis</hi> — 1656</item>
+               <item>81 <hi>Jo. Richardſon</hi>'s Choice Obſervations and Explanations of the Old Teſtament — 1655</item>
+               <item>82 <hi>Hen. Ainſworth</hi>'s Works compleat, viz. Comment. on the Pentateuch, &amp;c. — 1639</item>
+               <item>83 <hi>Edw. Elton</hi>'s Expoſition of the Epiſtle of St. <hi>Paul</hi> to the <hi>Coloſſians</hi> — 1637</item>
+               <item>84 <hi>Jo. Trap</hi>'s Comment, or Expoſition upon the 12 minor Prophets — 1654</item>
+               <item>85 <hi>N. Byfield</hi>'s Expoſition upon the Epiſtle to the <hi>Coloſſians</hi> — 1649</item>
+               <item>86 —His Commentary on the firſt Epiſtle to St. <hi>Peter</hi> — 1637</item>
+               <item>87 Dr. <hi>Tho. Goodwin</hi>'s Works, <hi>viz.</hi> on the <hi>Epheſians,</hi> &amp;c. 2 vol. — 1681 &amp; 1683</item>
+               <item>88 <hi>Sa. Newman</hi>'s Concordance to the Bible — 1644</item>
+               <item>89 <hi>Rich. Bernard's Theſaurus Biblicus,</hi> or a Concordance to the Bible — 1642</item>
+               <item>90 <hi>Tho. Wilſon</hi>'s Chriſtian Dictionary explaining the words in the Bible — 1647</item>
+               <item>91 Dr. <hi>Lightfoot</hi>'s Harmony on the New Teſtament — 1655</item>
+               <item>92 Dr. <hi>Gilb. Burnet</hi>'s Hiſtory of the Reformation, 2 parts compleat — 1681</item>
+               <item>93 Dr. <hi>Will. Cave</hi>'s Hiſtory of the Lives of the Apoſtles, the third Edition — 1677</item>
+               <item>94 —His Lives of the Primitive Fathers for the 3 firſt Centuries — 1677</item>
+               <item>95 Dr. <hi>Stillingfleet</hi>'s Rational Account of the grounds of the Proteſtant Religion — 1665</item>
+               <item>96 <hi>R. Cudworth</hi>'s True intellectual Syſtem of the Univerſe — 1678</item>
+               <item>97 Bp <hi>Ger. Babington</hi>'s Works compleat, on the Pentateuch, &amp;c. — 1637</item>
+               <item>98 Dr. <hi>Hen. Hammond</hi>'s Paraphraſe and Annotations on the New Teſtament — 1653</item>
+            </list>
+            <list>
+               <head>
+                  <hi>Divinity</hi> in Quarto.</head>
+               <item>1 <hi>JOhn Hales</hi> Golden Remains, with Sermons and Miſcellanies — 1673</item>
+               <item>2 Bp <hi>Coſins</hi> Eccleſiaſtical Hiſtory of the Canon of the holy Scripture — 1657</item>
+               <item>3 <hi>Mer. Caſaubon</hi> of the neceſſity of the Reformation in and before <hi>Luther</hi>'s time — 1664</item>
+               <item>4 <hi>Brightman</hi> on the Revelation on <hi>Daniel,</hi> with other Tracts — <hi>Amſt.</hi> 1644</item>
+               <item>5 <hi>Bullenger</hi>'s Decad of Sermons, (wants Title) —</item>
+               <item>6 Aſſembly of Divines Confeſſion of Faith, Catechiſm, &amp;c. — 1658</item>
+               <item>7 <hi>Arth. Jackson</hi>'s Annotations on the Bible, 3 parts 2 vol. — <hi>Camb.</hi> 1643</item>
+               <item>8 <hi>Weemſe</hi>'s Works with his 4 degenerate Sons 4 vol. compleate. — <hi>Lond.</hi> 1637</item>
+               <item>9 <hi>Pagit</hi>'s Chriſtianography, an account of the Sorts of Chriſt. not ſubject to the Pope 1636</item>
+               <item>10 <hi>Caſes</hi> Morning Exerciſe methodized in ſundry Sermons — 1676</item>
+               <item>11 Bp <hi>Gauden</hi>'s Defence of the Miniſtry, and Miniſters of the Church of <hi>England</hi> — 1653</item>
+               <item>12 <hi>Tho. Jackson</hi>'s Comment. on the Creed with other Tracts relat. thereto 9 parts 4 vol. 1613</item>
+               <item>13 <hi>John Painolds</hi> Conference with <hi>Hart</hi> touching the Head of the Church — 1609</item>
+               <item>14 —Propheſy of <hi>Haggai</hi> interpreted in ſundry Sermons — 1649</item>
+               <item>15 <hi>Reading</hi>'s Guide to the holy City, containing Directions to a godly Life — <hi>Oxf.</hi> 1651</item>
+               <item>16 Judgment of the Synod of <hi>Dort</hi> touching the 5 Articles, &amp;c. — <hi>Lond.</hi> 1619</item>
+               <item>17 <hi>Mountague</hi>'s Gag for the new Goſpel, or new Gag for an old Gooſe, &amp;c. — <hi>ibid.</hi> 1624</item>
+               <item>18 —Diatribe on the firſt part of Mr. <hi>Selden</hi>'s Hiſtory of Tithes — 1621</item>
+               <item>19 —Appeal to <hi>Caeſar</hi> from two unjuſt Informers — 1625</item>
+               <item>20 Sir <hi>H. Spelman</hi>'s larger Treatiſe concerning Tithes — 1647</item>
+               <item>21 <hi>Selden</hi>'s Hiſtory of Tithes, viz. the practice of the payment of them — 1618</item>
+               <item>22 <hi>Signior Valdeſſos</hi> Conſiderations treating of the moſt profitable things — 1638</item>
+               <item>23 Dr. <hi>Manton</hi>'s Practical Commentary with Notes on the Epiſtle of St. <hi>James</hi> — 1651</item>
+               <item>24 —Expoſition with Notes on the Epiſtle of <hi>Jude</hi> — 1658</item>
+               <item>25 <hi>Jenkin</hi>'s Expoſition with large Deductions in ſundry Lectures on <hi>Jude,</hi> 2 vol. — 1654</item>
+               <item>26 <hi>Fuller's Abel Redivivus,</hi> containing the Lives and Deaths of the Modern Divines — 1651</item>
+               <pb n="9" facs="tcp:63472:7"/>
+               <item>27 <hi>S. Clarkes</hi> Marrow of Eccleſiaſt. Hiſtory, <hi>viz.</hi> of the Lives of the Fathers, &amp;c. 2 vol. 1657</item>
+               <item>28 <hi>Ball</hi>'s Treatiſe of the Covenant of Grace practically handled — <hi>Lond.</hi> 1645</item>
+               <item>29 —Friendly tryal of the grounds tending to Separation — <hi>Camb.</hi> 1640</item>
+               <item>30 <hi>Sheppard</hi>'s Treatiſe of the Liturgies and Power of the Keys — <hi>Lond.</hi> 1640</item>
+               <item>31 <hi>Trap</hi>'s Commentary on the Evangeliſts, with the Epiſtles, 5 vol. — 1647</item>
+               <item>32 —on <hi>Geneſis, Exodus Numb. Proverbs, Canticles,</hi> 5 vol. — 1647</item>
+               <item>33 <hi>J. Behmen</hi>'s Forty Queſtions concerning the Soul propounded — 1647</item>
+               <item>34 <hi>Whately</hi>'s New Birth, or a Treatiſe of Regeneration — 1635</item>
+               <item>35 <hi>Prynn</hi>'s Church of <hi>England's Antitheſis</hi> to new Arminianiſm — 1629</item>
+               <item>36 Dr. <hi>Featley's Pelagius Redivivus</hi> raked out of the Aſhes of <hi>Arminius</hi> — 1626</item>
+               <item>37 <hi>C. Burges</hi> Baptiſmal Regeneration of Infants — 1629</item>
+               <item>39 <hi>P. Baynes</hi> Commentary on the firſt Epiſtle of St. <hi>Paul</hi> to the <hi>Epheſians</hi> — 1618</item>
+               <item>39 <hi>Alex. Huiſh</hi>'s Lectures upon the Lord's Prayer — 1626</item>
+               <item>40 <hi>Greenhil</hi>'s Expoſition on the firſt 19 Chapters of <hi>Ezekiel,</hi> 3 vol. — 1645</item>
+               <item>41 <hi>Rob. Bolton</hi>'s Works, viz. of walking with God, four laſt things, &amp;c. 3 vol. — 1641</item>
+               <item>42 <hi>Lightfoot</hi>'s Temple-Service as it ſtood in our Saviours days —</item>
+               <item>43 —His Harmony on the Old and New Teſtament, and on the <hi>Acts,</hi> with his Collections out of <hi>Geneſis</hi> and <hi>Exodus,</hi> &amp;c. 3 vol. — 1647</item>
+               <item>44 Bp <hi>
+                     <g ref="char:V">Ʋ</g>ſher</hi>'s 18 Sermons preached in <hi>Oxford,</hi> viz. of Converſion to God, &amp;c. — 1640</item>
+               <item>45 —Of the Power communicated by God to the Prince — 1661</item>
+               <item>46 —Anſwer to the Jeſuits Challenge, with his Religion of the ancient <hi>Iriſh,</hi> his Serm. and his Speech cenſur. the Officers that refuſed the Oath of Supream. 1631</item>
+               <item>46 <hi>Martins</hi> Treatiſe proving the pretended Marriage of Prieſts as no Marriage — 1554</item>
+               <item>48 <hi>Parks</hi> Apology of 3 Teſtimonies of Scriptures touching Chriſt's deſcent into Hell 1607</item>
+               <item>49 An Anſwer to the points of Controverſy propoſed by King <hi>James</hi> to <hi>Fiſher</hi> — 1628</item>
+               <item>50 <hi>Thompſon</hi>'s Antichriſt arraigned, with the Trial of falſe Guides — 1618</item>
+               <item>51 Dr. <hi>Owens Vindicae Evangelicae,</hi> or the Goſpel vindicated, Socinianiſm examined — 1635</item>
+               <item>52 —Death of Death in the Death of Chriſt, a Treatiſe of Redemption — 1648</item>
+               <item>53 —Collection of his Sermons before the Parliament, &amp;c. — 1651</item>
+               <item>54 —Doctrine of Juſtification by Faith explained and vindicated — 1677</item>
+               <item>55 —Of Communion with God the Father, Son, and Holy Ghoſt diſtinctly — 1657</item>
+               <item>56 <hi>Sympſons</hi> Hiſtory of the Church, containing the Novelty of Popery — 1625</item>
+               <item>57 <hi>Harris</hi> Engliſh Concord in anſwer to <hi>Becanes</hi> Engliſh <hi>Jarre</hi> — 1614</item>
+               <item>58 Bp of <hi>Lincolns</hi> Defence of King <hi>James</hi> Apology for the Oath of Allegiance — 1609</item>
+               <item>59 Bp <hi>Abbots</hi> Anſwer to the the Reaſons brought for upholding Papiſtry — 1604</item>
+               <item>60 Dr. <hi>Goodmans</hi> Penitent pardoned, or a Diſcourſe of the nature of Sin — 1629</item>
+               <item>61 Dr. <hi>Patricks</hi> Parable of the Pilgrim written to a Friend — 1677</item>
+               <item>62 <hi>Baxters</hi> Confeſſion of Faith, touching Repentance and Obedience — 1655</item>
+               <item>63 —Divine Life, <hi>viz.</hi> of walking with God, and of the knowledg of God — 1664</item>
+               <item>64 —Of crucifying the World by the Croſs Chriſt — 1658</item>
+               <item>65 —Saints Everlaſting Reſt — 1650</item>
+               <item>66 —Reaſons of the Chriſtian Religion from natural Evidence — 1660</item>
+               <item>67 —Apology againſt the Exceptions of <hi>Blake</hi> and <hi>Kendal</hi> — 1645</item>
+               <item>68 Directory for the Worſhip of God, or the Presbyterians, &amp;c. Service-book — 1646</item>
+               <item>69 <hi>Mornay</hi>'s Trueneſs of the Chriſtian Religion, and of the Church — 1617</item>
+               <item>70 <hi>Moulins</hi> Buckler of Faith, or a defence of the reformed Churches — 1631</item>
+               <item>71 Morning Exerciſe at <hi>Cripplegate,</hi> or Caſes of Conſcience reſolved — 1661</item>
+               <item>72 <hi>Strongs</hi> Thirty one ſelect Sermons on ſpecial occaſions — 1656</item>
+               <item>73 <hi>Balls</hi> Treatiſe of Faith ſhewing the nature and the life of Faith, — 1637</item>
+               <item>74 <hi>Sclaters</hi> Expoſition with Notes on the 4th Chapter of the <hi>Romans</hi> — 1650</item>
+               <pb n="10" facs="tcp:63472:8"/>
+               <item>75 <hi>Moulins</hi> Vindication of the Proteſtant Religion in point of Obedience — <hi>Lond.</hi> 1667</item>
+               <item>76 <hi>Rutherfords</hi> Peaceable Plea for St. <hi>Pauls</hi> Presbytery in <hi>Scotland</hi> — 1642</item>
+               <item>77 —Influences of the Life of Grace — 1659</item>
+               <item>78 —Trial and Triumph of Faith in Sermons — 1649</item>
+               <item>79 <hi>J. Downes</hi> Treatiſes, <hi>viz.</hi> of juſtifying Faith, &amp;c. — <hi>Oxf.</hi> 1633</item>
+               <item>80 <hi>J. Cottons</hi> Grounds and ends of baptizing the Children of the Faithful — <hi>Lond.</hi> 1647</item>
+               <item>81 <hi>Medes</hi> Key of the Revelation ſearched and demonſtrated — 1643</item>
+               <item>82 <hi>Lawrence</hi> Uſe and Practice of Faith — 1657</item>
+               <item>83 <hi>Anth. Burgeſs Vindiciae Legis,</hi> or a vindication of the moral Law — 1646</item>
+               <item>84 —Of Juſtification againſt the Socinians, <hi>&amp;c.</hi> 2 vol. compleat — 1648</item>
+               <item>85 Bp <hi>Lakes</hi> ten Sermons on ſeveral occaſions preached at <hi>Pauls</hi> Croſs — 1640</item>
+               <item>86 <hi>Thom. Fullers Joſephs</hi> party-coloured Coat, or a Comment on the <hi>Corinthians</hi> 1640</item>
+               <item>87 <hi>Arrowſmiths</hi> Chain of Principles, or the heads of Chriſtian Religion improved 1650</item>
+               <item>88 —God-man, being an Expoſition on the firſt 18 verſes of St. <hi>John</hi> — 1660</item>
+               <item>89 —Jeſus Chriſt God's Shepheard, and the Man God's Fellow — 1658</item>
+               <item>90 Dr. <hi>Hammonds</hi> practical Catechiſm with other of his Tracts — <hi>Oxf.</hi> 1649</item>
+               <item>91 —Vindication of his Diſſertations concerning Epiſcopacy againſt <hi>Blundel Lond.</hi> 1654</item>
+               <item>92 <hi>Gilleſpies</hi> Miſcellany Queſtions reſolving Caſes of Conſcience — <hi>Edenb.</hi> 1634</item>
+               <item>93 <hi>Aarons</hi> Rod bloſſoming, or the Ordinance of Church-Government vindicated — <hi>Lond.</hi> 1646</item>
+               <item>94 <hi>Parkers</hi> Viſions and Prophecies of <hi>Daniel</hi> expounded — 1646</item>
+               <item>95 <hi>Paul Baynes</hi> Commentary on the firſt and ſecond Chapters of the <hi>Coloſſians</hi> — 1634</item>
+               <item>96 <hi>Bancrofts</hi> Dangerous Poſitions of the Engliſh ſcottizing for Diſcipline — 1640</item>
+               <item>97 <hi>Caryls</hi> Expoſition on <hi>Job,</hi> from the firſt Chapter to the 21ſt. 6 vol. — 1643</item>
+               <item>98 —Collection of his Sermons before the Parliament, 1642. — 1642</item>
+               <item>99 Bp <hi>Reynolds Iſraels</hi> Prayer, or an Explication of the 14th Chapter of <hi>Hoſea</hi> 1645</item>
+               <item>100 —Three Treatiſes, <hi>viz.</hi> Sinfulneſs of Sin, Vanity of the Creature, <hi>&amp;c.</hi> 1642</item>
+               <item>101 —Explication of the 110 <hi>Pſalm</hi> in Sermons at <hi>Lincons-Inn</hi> — 1635</item>
+               <item>102 —Meditations on the holy Sacrament of the Lord's Supper — 1639</item>
+               <item>103 —Treatiſe of the Paſſions and Faculties of the Soul of Man — 1640</item>
+               <item>104 <hi>Gunnings</hi> Paſchal, or Lent-Faſt perpetual and apoſtolical — 1662</item>
+               <item>105 Bp <hi>Lucys</hi> Obſervations, Cenſures, and Confutations of <hi>Hobbs Leviathan</hi> — 1663</item>
+               <item>106 —Treatiſe of the nature of a Miniſter in all its Offices — 1670</item>
+               <item>107 <hi>Baylies</hi> Anabaptiſm the true Fountain of Independency — 1647</item>
+               <item>108 —Conference betw. K. <hi>Char.</hi> the I. and the Marq. of <hi>Worceſter</hi> touching Relig. — 1651</item>
+               <item>109 <hi>Kings</hi> Lectures on the Prophet <hi>Jonas</hi> delivered at <hi>York — Oxf.</hi> 1600</item>
+               <item>110 <hi>W. Coopers</hi> Anatomy of a Chriſtian Man — <hi>Lond.</hi> 1614</item>
+               <item>111 <hi>Fonners</hi> Alarum to drowſie Saints — 1646</item>
+               <item>112 <hi>W. Sherwins</hi> Work, with a Key of the Doctrines therein — 1672</item>
+               <item>113 <hi>Nortons</hi> Orthodox Evangeliſt diſcuſſing many great Truths — 1654</item>
+               <item>114 <hi>Bulkeleys</hi> Goſpel-Covenant of Grace opened — 1646</item>
+               <item>115 Dr. <hi>Thomas Goodwins</hi> Works, Child of Light, &amp;c. — 1647</item>
+               <item>116 —<hi>(John) Hagiomaſtix.</hi> Anti-Cavilieriſm with other of his Tracts — 1446</item>
+               <item>117 —Expoſition on the 9th Chapter of the <hi>Romans</hi> — 1653</item>
+               <item>118 —Divine Authority of the Scriptures aſſerted — 1648</item>
+               <item>119 <hi>Shepherds Theſes Sabbaticae,</hi> or the Doctrine of the Sabbath — 1649</item>
+               <item>120 Bp <hi>Jer. Taylor</hi> of the ſacred order and office of Epiſcopacy — 1642</item>
+               <item>121 —Diſſwaſive from Popery, 2 parts compleat — 1668</item>
+               <item>122 —Diſcourſe of the Liberty of propheſying — 1647</item>
+               <item>123 —<hi>(Francis)</hi> Commentary with practical Obſervations on the <hi>Proverbs</hi> — 1655</item>
+               <item>124 <hi>Elton</hi> Queſtions and Anſwers on the Commandments — 1648</item>
+               <pb n="11" facs="tcp:63472:8"/>
+               <item>125 <hi>Ellis</hi> St. <hi>Auſtin</hi> imitated, or Retractions and Repentings — <hi>Lond.</hi> 1662</item>
+               <item>126 <hi>Edwards Antapologia,</hi> or an Anſwer to the Narration of <hi>John Goodwin, &amp;c.</hi> — 1644</item>
+               <item>127 <hi>Crandons Baxters</hi> Aphoriſms exorized and anthorized — 1654</item>
+               <item>128 <hi>Matons Iſraels</hi> Redemption, or the Jews Converſion to the Goſpel — 1646</item>
+               <item>129 <hi>Whitlock</hi> and <hi>Reynolds</hi> Vanity and Excellency of Man in 2 Funeral Sermons — 1658</item>
+               <item>130 <hi>Cradocks</hi> Goſpel Liberty in the Extenſions and Limitations of it — 1648</item>
+               <item>131 —Goſpel-Holineſs, or the ſaving Sight of God, from <hi>Iſa.</hi> 6.5. — 1651</item>
+               <item>132 <hi>J. Goodwins</hi> againſt <hi>Edwards Antapologia</hi> in behalf of the Presbyterians — 1646</item>
+               <item>133 —<hi>Imputatio Fidei;</hi> or a Treatiſe of Juſtification — 1642</item>
+               <item>134 <hi>Tombes</hi> Apology, or Plea for two Treatiſes of Infant-Baptiſm — 1646</item>
+               <item>135 <hi>Sibbs</hi> Glorious Feaſt of the Goſpel in Sermons on <hi>Iſa.</hi> 25. — 1650</item>
+               <item>136 —Bowels opened, Sermons on the 4, 5, 6. Chapters of <hi>Canticles</hi> — 1641</item>
+               <item>137 <hi>Cottons</hi> Way of Life, or God's courſe in bringing the Soul to himſelf — 1641</item>
+               <item>138 Bp <hi>Nicolſons</hi> Expoſition on the Catechiſm of the Church of <hi>England</hi> — 1663</item>
+               <item>139 Glory of their times, or the Lives of the Primitive Fathers, with Cuts — 1640</item>
+               <item>140 <hi>Durels</hi> View of the Government in the Worſhip of God in the Reformed Church 1662</item>
+               <item>141 <hi>Clarksons</hi> Practical Divinity of the Papiſts, deſtructive of Chriſtianity — 1576</item>
+               <item>142 Reaſons by the diſſenting Brethren, touching Presbyterian-Government — 1648</item>
+               <item>143 <hi>Whites</hi> Treatiſe of the Sabbath defending the orthodoxal Doctrine — 1636</item>
+               <item>144 <hi>Luthers</hi> Commentary on the <hi>Galathians, Pſalms</hi> of degrees — 1644</item>
+               <item>145 —Fruitful Sermons preached before King <hi>Edward</hi> the Sixth — 1635</item>
+               <item>146 <hi>Yates Imago Mundi,</hi> viz. the Myſtery of the Calling of the Gentiles — 1640</item>
+               <item>147 <hi>Madens</hi> Chriſt's Love and Affection to <hi>Jeruſalem</hi> — 1637</item>
+               <item>148 Harmony of the Confeſſions of the Reformed Churches — 1648</item>
+               <item>149 <hi>Garthwaits</hi> Harmony reducing the 4 Evangeliſts into one Context — 1634</item>
+               <item>150 <hi>Hills</hi> 6 Sermons, viz. of the ſweetneſs and beauty of Peace — 1649</item>
+               <item>151 <hi>Rogers</hi> Expoſition of the 39 Articles of the Church of <hi>England</hi> — 1681</item>
+               <item>152 <hi>Weſtfields Englands</hi> Fate in <hi>Iſraels</hi> Glaſs in 8 Sermons — 1643</item>
+               <item>153 <hi>Sclaters</hi> Expoſition with Notes on the firſt and ſecond Epiſtle to the <hi>Theſſalonians</hi> 1635</item>
+               <item>154 <hi>Stillingfleets Irenicum &amp; origines ſacrae</hi> — 1662</item>
+               <item>155 —Unreaſonableneſs of Separation, with its Hiſtory, and Nature — 1682</item>
+               <item>156 <hi>Squires</hi> Expoſition on the <hi>Theſſalonians,</hi> proving the Pope Antichriſt — 1630</item>
+               <item>157 <hi>Bridges</hi> Works, viz. the Goſpel-Myſtery of the Saints Comfort, <hi>&amp;c.</hi> — 1649</item>
+               <item>158 <hi>Gurnals</hi> Chriſtian Armour, 2 parts one volume — 1658</item>
+               <item>159 <hi>Lyfords</hi> plain Mans Senſes exerciſed to diſcern both good and Evil — 1655</item>
+               <item>160 <hi>Smiths</hi> Select Diſcourſes, viz. of Superſtition, Atheiſm, &amp;c. — 1660</item>
+               <item>161 Dr. <hi>Mantons</hi> Sermons of Forgiveneſs of Sin, &amp;c. — 1678</item>
+               <item>162 —Another with the Effigies of the Author (large Paper) — 1678</item>
+               <item>163 Dr. <hi>Peirces</hi> Decad of Caveats to the People of <hi>England</hi> — 1679</item>
+               <item>164 Dr. <hi>Bates</hi> Harmony of the Divine Attributes — 1675</item>
+               <item>165 <hi>Eſtwicks</hi> Examination of <hi>Biddles</hi> Confeſſion of Faith — 1656</item>
+               <item>166 <hi>Balls</hi> Pulpits Patronage againſt the force of unordain'd Uſupation — 1656</item>
+               <item>167 <hi>Vines</hi> Right Inſtitution and Adminiſtration of the Sacrament — 1657</item>
+               <item>168 <hi>Bunnys</hi> Expoſition of the Doctrine of Juſtification by Faith — 1616</item>
+               <item>169 Dr. <hi>Donnes</hi> Self-homicide not ſo naturally a Sin —</item>
+               <item>170 Bp <hi>Halls</hi> Epiſcopacy by Divine Right aſſerted — 1640</item>
+               <item>171 <hi>Streats</hi> Dividing the hoof, or ſeeming Contradictions of Script. reconciled — 1654</item>
+               <item>172 <hi>Cottons</hi> Bloody Tenent waſhed, <hi>viz.</hi> of Liberty of Conſcience — 1647</item>
+               <item>173 <hi>Stocks</hi> Diſcourſe of the Divine Attributes of God — 1641</item>
+               <item>174 <hi>Chauncys</hi> Plain Diſcourſe of Juſtification — 1659</item>
+               <pb n="12" facs="tcp:63472:9"/>
+               <item>175 <hi>Holdſworths</hi> Valley of Viſions in 12 Sermons — <hi>Lond.</hi> 1651</item>
+               <item>176 <hi>Benj. Woodbridges</hi> Method of Grace in the Juſtification of Sinners — 1656</item>
+               <item>177 <hi>Stephens</hi> Calculation of the Name, Mark and Number of the Beaſt — 1656</item>
+               <item>178 <hi>Grailes</hi> Modeſt Vindication of Conditions in the Covenant of Grace — 1655</item>
+               <item>179 <hi>Days</hi> Dooms-day, or a Treatiſe of the Reſurrection of the Body — 1636</item>
+               <item>180 <hi>Hookers</hi> Survey of Church-Diſcipline in the way of the Churches in <hi>New-England</hi> 1648</item>
+               <item>181 <hi>Twiſſes</hi> Examination of Mr. <hi>Cottons</hi> Treatiſe of Predeſtination — 1646</item>
+               <item>182 <hi>Rogers</hi> Practical Catechiſm, and of the Sacraments — 1640</item>
+               <item>183 <hi>Abbots</hi> whole Book of <hi>Pſalms</hi> paraphraſed — 1650</item>
+               <item>184 <hi>Twiſdens</hi> Hiſtorical Vindication of the Church of <hi>England</hi> in point of Schiſm 1675</item>
+               <item>185 <hi>Tuckneys</hi> Forty Sermons on ſeveral occaſions — 1676</item>
+               <item>186 <hi>Bernards Clavi trabales,</hi> confirming the Kings Supremacy, &amp;c. — 1661</item>
+               <item>187 <hi>Potters</hi> Interpretations of the number 666 — 1642</item>
+               <item>188 <hi>Jer. Burroughs</hi> Expoſition of the Prophecy of <hi>Hoſea,</hi> 4 vol. compleat — 1643</item>
+               <item>189 —Of the Evil of Sin, of Faith and Hope — 1654</item>
+               <item>190 —<hi>Moſes</hi> choice with his Eye fixed on Heaven — 1641</item>
+               <item>191 —Of earthly Mindedneſs, and of converſing in Heaven — 1649</item>
+               <item>192 —Saints Treaſury in ſundry Sermons — 1656</item>
+               <item>193 —Rare Jewel of Chriſtian Contentment — 1648</item>
+               <item>194 —<hi>Irenicum,</hi> or Heart-Diviſions opened in the Cauſes of them — 1646</item>
+               <item>195 —Goſpel-Worſhip, and Goſpel-Converſation — 1648</item>
+               <item>196 <hi>Lockiers England</hi> faithfully Watch't with in her Wounds — 1646</item>
+               <item>197 <hi>Shutes</hi> Plague of Frogs inflicted, removed — 1645</item>
+               <item>198 <hi>Ambroſes Prima media, ultima</hi> — 1650</item>
+               <item>199 <hi>Collings</hi> Cordial for a fainting Soul — 1649</item>
+               <item>200 Deliverance of the whole houſe of <hi>Iſrael</hi> — 1641</item>
+               <item>201 <hi>Robert Tichbourns</hi> Cluſter of Grapes brought from <hi>Canaan</hi> — 1649</item>
+               <item>202 <hi>Leys</hi> Defenſives Doubts, and Reaſons for the refuſal of the Oath of the 6th Canon 1641</item>
+               <item>203 <hi>Lawrences</hi> Communion and War with Angels in Meditations — 1606</item>
+               <item>204 <hi>Marburys</hi> Expoſition on the Prophecy of <hi>Habbakkuk</hi> — 1650</item>
+               <item>205 <hi>Rogers</hi> Expoſition on the Parable of the Penitent Citizen — 1640</item>
+            </list>
+            <list>
+               <head>
+                  <hi>Divinity</hi> in Octavo, Twelves, &amp;c.</head>
+               <item>1 ST. <hi>Auguſtines</hi> Confeſſion, tranſlated by <hi>W. Watts</hi> — 1631</item>
+               <item>2 <hi>R. Abbots</hi> Trial of Chriſtian Church Forſakers — 1639</item>
+               <item>3 Apology for the Church of <hi>England</hi> in point of Separation — 1679</item>
+               <item>4 <hi>W. Aſhtons</hi> Apology for the Honours and Revenues of the Clergy — 1676</item>
+               <item>5 <hi>Hen. Ainſworths</hi> Treatiſe of the Communion of Saints — 1641</item>
+               <item>6 <hi>Albertus magnus</hi> his Treatiſe of adhering to God — 1654</item>
+               <item>7 <hi>Benj. Auſtins</hi> Scripture-Manifeſtations of the Trinity — 1650</item>
+               <item>8 <hi>Tho. Adams</hi> his main Principles of the Chriſtian Religion explain'd — 1677</item>
+               <item>9 <hi>Sim. Aſhes</hi> Principal grounds of the Chriſtian Religion — 1656</item>
+               <item>10 <hi>J. Arndts</hi> Book of Scripture neceſſary to Salvation — 1646</item>
+               <item>11 <hi>Rob. Abbots</hi> Four Sermons at the Aſſizes at <hi>Maidſtone</hi> in <hi>Kent</hi> — 1639</item>
+               <item>12 Bp <hi>Bramhalls</hi> Juſt Vindication of the Church of <hi>England</hi> from Schiſm —His Defence of his Vindication againſt the Biſhop of <hi>Chalcedon</hi> — 1661</item>
+               <item>13 —His Defence of the Epiſcopal Clergy againſt the Presbyterians — 1672</item>
+               <pb n="13" facs="tcp:63472:9"/>
+               <item>14 <hi>Gilb. Burnett</hi> Myſtery of Iniquity Unveiled — <hi>Lond.</hi> 1673</item>
+               <item>15 Dr. <hi>Iſ. Baſire</hi>'s Sacriledge Arraigned and Condemned — 1668</item>
+               <item>16 —his Funeral Sermon at the Burial of Biſhop <hi>Jo. Coſin</hi> — 1673</item>
+               <item>17 —his Ancient Liberty of the <hi>Brittannick</hi> Church — 1661</item>
+               <item>18 <hi>Sa. Bolton</hi>'s Sermons on the publick Days of Humiliation — 1644</item>
+               <item>19 —his True Bounds of Chriſtian Freedom — 1645</item>
+               <item>20 <hi>W. Bates</hi> Conſiderations of the Exiſtence of God and of the Immort. of the Soul 1676</item>
+               <item>21 —The Divinity of the Chriſtian Religion proved — 1677</item>
+               <item>22 —his Funeral Sermon on the Death of Dr. <hi>Manton</hi> — 1678</item>
+               <item>23 <hi>Jo. Barrett</hi>'s Chriſtian Temper or a Diſcourſe of the Graces of Sanctification — 1678</item>
+               <item>24 <hi>Cha. Broxolme</hi>'s Good old way, or <hi>Perkins</hi> improved — 1657</item>
+               <item>25 <hi>M. Bohemus</hi> his Pearl of Peace and Concord — 1655</item>
+               <item>26 <hi>P. Baynes</hi> Help to True Happineſs — 1635</item>
+               <item>27 —his Chriſtian Letters — 1628</item>
+               <item>28 <hi>Pet. Berault</hi>'s Church of <hi>Rome</hi> evidently proved Heretical — 1682</item>
+               <item>29 <hi>Ja. Barkers</hi> Royal-Robe, or a Treatiſe of Meekneſs — 1661</item>
+               <item>30 <hi>W. Barton</hi>'s Book of Pſalms in Metre — 1645</item>
+               <item>31 <hi>Ven. Bede</hi>'s Hiſtory of the Church of <hi>England,</hi> Engl. by <hi>Tho. Stapleton.</hi> S. <hi>Omers</hi> 1622</item>
+               <item>32 <hi>Jer. Burroughes</hi> Excellency of a Gracious Spirit — <hi>Lond.</hi> 1649</item>
+               <item>33 —<hi>Moſes</hi> his Self-denial — 1649</item>
+               <item>34 <hi>Jo. Brinfley</hi>'s Groan for <hi>Iſrael,</hi> with the Spiritual Vertigo — 1655</item>
+               <item>35 <hi>T. Butler</hi>'s Book of God opened in Man by the Power of the Lamb — 1649</item>
+               <item>36 <hi>N. Bernard</hi>'s Penitent Death of <hi>Jo. Atherton</hi> Biſhop of <hi>Waterford,</hi> &amp;c. — 1651</item>
+               <item>37 <hi>Beames</hi> of former Light, diſcovering how evil it is to impoſe upon Miniſters — 1660</item>
+               <item>38 <hi>Rich. Baxter</hi>'s Imputative Righteouſneſs truly ſtated — 1679</item>
+               <item>39 —his Catechizing of Families, Teacher of Houſholders — 1683</item>
+               <item>40 —his Defence of the Principles of Love and Concord — 1671</item>
+               <item>41 —his Diſcovery of the <hi>Grotian</hi> Religion againſt Mr. <hi>Pierces</hi> Vindication — 1658</item>
+               <item>42 —his Cure of Church Diviſions, or Directions for weak Chriſtians — 1670</item>
+               <item>43 —his Satisfaction which is the true and ſafe Religion — 1674</item>
+               <item>44 —his Reformed Paſtor, ſhewing the Nature of Paſtoral Work — 1658</item>
+               <item>45 —The Divine Appointment of the Lords-day proved — 1671</item>
+               <item>46 —his Certainty of Chriſtianity without Popery — 1672</item>
+               <item>47 —his Right Method for a ſetled Peace of Conſcience — 1653</item>
+               <item>48 —his Aphoriſmes of Juſtification with their Explication — 1649</item>
+               <item>49 Dr. <hi>W. Cave</hi>'s Primitive Chriſtianity in Three parts — 1673</item>
+               <item>50 <hi>S. Charnocks</hi> Treatiſe of the Divine-Providence — 1680</item>
+               <item>51 <hi>Crows</hi> Catalogue of our <hi>Engliſh</hi> Writers on the Old and New-Teſtament — 1668</item>
+               <item>52 The Chriſtian Sacrifice, together with Prayers and Meditations, by Dr. <hi>Patrick</hi> 1671</item>
+               <item>53 <hi>Clavis Apocalytica,</hi> or a Prophetical Key opening the Myſteries of the <hi>Revelations</hi> 1651</item>
+               <item>54 Commentary on <hi>Pſalm</hi> 103. with ſeveral Axiomes or Doctrines — 1649</item>
+               <item>55 Contemplation of Death and Immortality — 1658</item>
+               <item>56 <hi>Rich. Capells</hi> Tentations in Four Parts, the Fifth Edition — 1655</item>
+               <item>57 The Conforming Non-Conformiſt, and the Non-Conforming Conformiſt — 1680</item>
+               <item>58 The Countermine, or a Diſcovery of the dangerous Principles and Practi<g ref="char:EOLhyphen"/>ces of the Diſſenters, by Dr. <hi>Nalſon</hi> — 1677</item>
+               <item>59 Private Conference between a Rich Alderman and a Poor Country Vicar — 1670</item>
+               <item>60 <hi>Tho. Caſe</hi> his Treatiſe of afflictions digeſted into ſundry Sermons — 1652</item>
+               <item>61 <hi>Tho. Cobbett</hi>'s Practical Diſcourſe of Prayer — 1654</item>
+               <item>62 <hi>Jo. Cragge</hi>'s Arraignment and Conviction of Anababaptiſme — 1656</item>
+               <pb n="14" facs="tcp:63472:10"/>
+               <item>63 <hi>Sa. Clarke</hi>'s Looking glaſs for Perſecutors in multitudes of Examples — <hi>Lond.</hi> 1674</item>
+               <item>64 <hi>M. Cary</hi>'s Reſurrection of the Witneſſes, on the 11th of the <hi>Revelations</hi> — 1648</item>
+               <item>65 <hi>Cotton</hi>'s Conference held at <hi>Boſton</hi> with the Elders of <hi>New-England</hi> — 1646</item>
+               <item>66 <hi>J. C</hi>'s Anſwer to that Queſtion, What is the Church of <hi>England?</hi> — 1680</item>
+               <item>67 <hi>W. Crompton</hi>'s Wilderneſs of Trouble, Leading to a <hi>Canaan</hi> of Comfort — 1679</item>
+               <item>68 <hi>Sa. Grook</hi>'s Guide unto True Bleſſedneſs — 1650</item>
+               <item>69 <hi>Tho. Collier</hi>'s Exaltation of Chriſt in the Days of the Goſpel — 1646</item>
+               <item>70 <hi>Edm. Calamy</hi>'s Art of Divine Meditation in ſeveral Sermons — 1680</item>
+               <item>71 <hi>W. Chappell</hi>'s Uſe of the Holy Scripture, Methodically Diſcourſed — 1653</item>
+               <item>72 <hi>D. Cawdry</hi>'s Church Reformation, promoted in a Sermon on <hi>Matt.</hi> the 18th — 1657</item>
+               <item>73 —his Threefold Exercitation concerning Superſtition, Will-worſhip, and <hi>Chriſtmas</hi> Feſtivals — 1654</item>
+               <item>74 <hi>Jo. Cotton</hi>'s Expoſition on the whole Book of <hi>Eccleſiaſtes</hi> — 1654</item>
+               <item>75 —his Expoſition of the <hi>Canticles</hi> or <hi>Song</hi> of <hi>Solomon</hi> — 1642</item>
+               <item>76 <hi>Tobias Criſp</hi>'s Chriſt alone exalted, 1. &amp; 3. part, 2 Vol. — 1643</item>
+               <item>77 <hi>Rich. Capell</hi> of Tentations, 4 Parts, with his Remains, 6th Edition — 1658</item>
+               <item>78 <hi>Tho. Dureſme, Ezechiel</hi>'s Wheel, a Treatiſe of Providence — 1653</item>
+               <item>79 <hi>Jo. D'eſpagne</hi>'s New Obſervations upon the Creed — 1647</item>
+               <item>80 <hi>Dav. Dickson</hi>'s Explication of all the <hi>Pſalms</hi> of <hi>David</hi> — 1653</item>
+               <item>81 —his Explication of the Goſpel of St. <hi>Matthew</hi> — 1647</item>
+               <item>82 —his Explication of St. <hi>Paul</hi>'s Epiſtle to the <hi>Hebrews — Aberdene,</hi> 1635</item>
+               <item>83 Bp. <hi>Davenant</hi>'s Animadverſions on Mr. <hi>Hoard</hi>'s God's Love to Mankind. <hi>Lond.</hi> 1641</item>
+               <item>84 <hi>Jo. Doughty</hi>'s Polemical Diſcuſſions of ſelect Queſtions — 1651</item>
+               <item>85 <hi>Geo. Downame</hi>'s Treatiſe of the Doctrine of Chriſtian Freedom — <hi>Oxon.</hi> 1635</item>
+               <item>86 —his Treatiſe of the Covenant of Grace — <hi>Lond.</hi> 1647</item>
+               <item>87 <hi>Reg. Draxe</hi>'s Barr againſt Free Admiſſion to the Lords-Supper — 1656</item>
+               <item>88 —his Boundary to the Mount, againſt Mr. <hi>Humphrey</hi> — 1653</item>
+               <item>89 Doctrine of Schiſme fully opened and applied to gathered Churches — 1672</item>
+               <item>90 <hi>Jo. Davis</hi>'s Heaven and Earth ſhaken, concerning Revolutions of Governments 1656</item>
+               <item>91 <hi>Jer. Dyke</hi>'s Miſchief and Miſery of Scandals — 1631</item>
+               <item>92 —his Worthy Communicant: or a Treatiſe of the Sacrament — 1680</item>
+               <item>93 —his Worthy Communicant, with ſundry ſelect Sermons —</item>
+               <item>94 —his Appendix to his worthy Communicant, with his Right. Man's Tower 1654</item>
+               <item>95 —his Two Treatiſes of good Conſcience, Miſchief of Scandals, <hi>&amp;c.</hi> —</item>
+               <item>96 <hi>Henry Dorney</hi>'s Divine Contemplations, and Spiritual Breathings — 1684</item>
+               <item>97 Dr. <hi>Goodman</hi>'s Enquiry into the Cauſes of the Contempt of the Church of <hi>Engl.</hi> 1675</item>
+               <item>98 Eſſay of Afflictions or Balme, to comfort, if not cure — 1647</item>
+               <item>99 Enter into thy Cloſet, or a Method of Private Devotion — 1608</item>
+               <item>100 Explication of the Creed, Ten Commaddments, and Lords Prayer — 1672</item>
+               <item>101 <hi>Sa. Eaton</hi>'s Vindication of the Divinity of Jeſus Chriſt — 1651</item>
+               <item>102 —his Myſtery of God Incarnate — 1650</item>
+               <item>103 <hi>W. Falkner</hi>'s Vindication of the Liturgy and Worſhip of the Church of <hi>England</hi> 1674</item>
+               <item>104 Dr. <hi>Fowler</hi>'s Principles and Practices of the Moderate Divines of the Ch. of <hi>Eng.</hi> 1670</item>
+               <item>105 —his Deſign of Chriſtianity — 1671</item>
+               <item>106 <hi>Dan. Featly</hi>'s Handmaid to Private Devotion — 1656</item>
+               <item>107 <hi>G. Firmin</hi> of Schiſm of Parochial Congregations in <hi>England</hi> — 1658</item>
+               <item>108 <hi>Tho. Faller</hi>'s Cauſe and Cure of a Wounded Conſcience — 1647</item>
+               <item>109 <hi>Sim. Ford</hi>'s Dialogue concerning the uſe of Infant-Batiſme — 1654</item>
+               <item>110 <hi>Tho. Fullwood</hi>'s <hi>Vindiciae Mediorum &amp; Mediatoris</hi> — 1651</item>
+               <item>111 <hi>Chr. Fonſeca</hi>'s Diſcourſe of Holy Love — 1652</item>
+               <pb n="15" facs="tcp:63472:10"/>
+               <item>112 <hi>James Fiſher</hi>'s Wiſe Virgin, a wonderful Narration — <hi>Lond.</hi> 1653</item>
+               <item>113 <hi>E. Fiſher</hi>'s Marrow of Modern Divinity — 1646</item>
+               <item>114 <hi>H. Fern</hi>'s Conſiderations touching this Reformed Church of <hi>England</hi> — 1653</item>
+               <item>115 <hi>W. Fenner</hi>'s Treatiſe of Afflections, or the Souls Pulſe — 1642</item>
+               <item>116 —his Sacrifice of the Faithful — 1648</item>
+               <item>117 —his Souls Looking glaſs, with a Treatiſe of Conſcience — <hi>Cambr.</hi> 1643</item>
+               <item>118 —Willful Impenitency the groſſeſt Self-Murder — <hi>Lond.</hi> 1648</item>
+               <item>119 —his Spiritual Man's Directory — 1648</item>
+               <item>120 Friendly Debate, with the Continuations — compleat 4. Vol. —</item>
+               <item>121 Sober Anſwer to the Friendly Debate betwixt a Conform. and a Non-Conform. 1669</item>
+               <item>122 <hi>W. Greenhill</hi>'s Treatiſe of the Soundneſs of the Heart, with other Sermons — 1670</item>
+               <item>123 <hi>Greek</hi> and <hi>Engliſh Lexicon,</hi> with a compleat <hi>Index</hi> — 1658</item>
+               <item>124 <hi>W. Guild</hi>'s <hi>Moſes</hi> Unveiled, with the Harmony of the Prophets — 1623</item>
+               <item>125 <hi>Tho. Goodwin</hi>'s Diſcourſe of the Puniſhment of Sin and Hell — 1680</item>
+               <item>126 <hi>Phil. Goodwin</hi>'s Family Religion Revived — 1655</item>
+               <item>127 —his Evangelical Communicant in the Sacrament — 1649</item>
+               <item>128 —his Myſtery of Dreams hiſtorically diſcourſed — 1658</item>
+               <item>129 —his Diſcovery of the Practical part of the Evangelical Sabbath — 1654</item>
+               <item>130 <hi>Rob. Garner</hi>'s Myſteries Unvailed, handling the Doctrine of Redemption — 1646</item>
+               <item>131 <hi>H. Grotius</hi> Truth of the Chriſtian Relig, 6 Books, with the 7th Book by <hi>S. Patrick</hi> 1683</item>
+               <item>132 <hi>Jo. How</hi>'s Bleſſedneſs of the Righteous, and Vanity of Man as Mortal — 1678</item>
+               <item>133 <hi>G. Hutcheſon</hi>'s Expoſitions of <hi>Obadiah, Jonah, Micah; Naum, Hab,</hi> and <hi>Zephaniah</hi> 1654</item>
+               <item>134 <hi>Jo. Hale</hi>'s Tract concerning the Sin againſt the Holy-Ghoſt — 1677</item>
+               <item>135 Sr. <hi>Matt. Hale</hi>'s ſeveral Tracts concerning the ends, <hi>&amp;c.</hi> of Religion — 1684</item>
+               <item>136 <hi>Hen. Hammond</hi>'s Review of the Paraphraſe and Annotations on the <hi>New-Teſt.</hi> 1656</item>
+               <item>137 — his Letter of Reſolution of Six Quaeries of preſent uſe in the Ch. of <hi>Eng.</hi> 1653</item>
+               <item>138 <hi>John Hanmer</hi>'s Exercitation upon Confirmation, or compleating Ch. Members 1658</item>
+               <item>139 <hi>Jo. Humphrey</hi>'s Queſtion of Re-ordination — 1661</item>
+               <item>140 — his Rejoynder to Mr. <hi>Drake</hi>'s Reply concerning Admiſſion to the Sacrament 1654</item>
+               <item>141 <hi>Cha. Herle</hi>'s Wiſdom's Tripos, <hi>viz.</hi> Worldly Policy, Moral Prudence and Chriſtian Wiſdom — 1655</item>
+               <item>142 — his Contemplations and Devotions on our Saviours Paſſion — 1631</item>
+               <item>143 <hi>Anth. Horneck</hi>'s Directions how to raiſe the Soul into Holy Flames — 1681</item>
+               <item>144 <hi>H. Hickman</hi>'s Juſtification of the Fathers and School men, againſt <hi>T. Pierce Oxon</hi> 1659</item>
+               <item>145 <hi>Geo. Herbert</hi>'s Prieſt to the Temple, or the Country Parſon's Character — <hi>Lond.</hi> 1671</item>
+               <item>146 Hiſtorical Applications and Occaſional Meditations on ſeveral Subjects — 1680</item>
+               <item>147 <hi>Sa. Hoard</hi>'s Souls Miſery and Recovery — 1636</item>
+               <item>148 <hi>Tho. Hubbert</hi>'s Pill to Purge Formality — 1630</item>
+               <item>149 Bp. <hi>Hall</hi>'s Soliloquies, or Holy Self-Conferences of the Devout Soul — 1651</item>
+               <item>150 — his Peace-maker, or the way of Peace in matter of Religion — 1645</item>
+               <item>151 — his Chriſt Myſtical, alſo an Holy Rapture — 1647</item>
+               <item>152 — his Treatiſe of the Old Religion, and the difference betwixt Re<g ref="char:EOLhyphen"/>formers and Romaniſts — 1630</item>
+               <item>153 — his Chriſtian Moderation, and the Remedy of Prophaneſs — 1640</item>
+               <item>154 Bp. <hi>Hackett</hi>'s Chriſtian Conſolations taught from Five Heads in Religion — 1671</item>
+               <item>155 <hi>Jo. Harriſon</hi>'s Vindication of Chriſtianity againſt Judaiſme and Atheiſme — 1656</item>
+               <item>156 <hi>Nat. Homes</hi> Doemonologie and Theologie againſt <hi>Seekers, Adamites,</hi> &amp;c. — 1650</item>
+               <item>157 <hi>Edw. Haughton</hi>'s Fair of Antichriſt, together with the Reign of Chriſt — 1652</item>
+               <item>158 <hi>Tho. Jacomb</hi>'s Treatiſe of Holy Dedication both Perſonal and Domeſtick — 1668</item>
+               <item>159 <hi>W. Jen<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>mn</hi>'s Abridgment of Dr. <hi>Preſton</hi>'s Works — 1648</item>
+               <pb n="14" facs="tcp:63472:11"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="15" facs="tcp:63472:11"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="16" facs="tcp:63472:12"/>
+               <item>160 <hi>R Kidder</hi>'s Diſcourſe concerning the Lords-Supper — <hi>Lond.</hi> 1674</item>
+               <item>161 <hi>N. Lokyer</hi>'s Chriſt's Communion with his Church Militant — 1644</item>
+               <item>162 — of Chriſt's Reſurrection, and its ends — 1650</item>
+               <item>163 <hi>Chr. Love</hi>'s Truth, Growth, and different degrees of Grace — 1652</item>
+               <item>164 — his Natural Man's Caſe ſtated, in Seventeen Sermons — 1652</item>
+               <item>165 <hi>W. Lyford</hi>'s Principles of Faith and Good Conſcience — 1650</item>
+               <item>166 — his Legacy, or help to young people — 1656</item>
+               <item>167 <hi>Edw. Leigh</hi>'s Treatiſe of the Divine Promiſes — 1641</item>
+               <item>168 <hi>Tho. Manton</hi>'s Practical Expoſition of the Lords Prayer — 1684</item>
+               <item>169 — his Eighteen Sermons on the 2d Chap. to the 2d to the <hi>Theſſalonians</hi> — 1679</item>
+               <item>170 <hi>Anth. Maxey</hi>'s Sermons Preached before the King — 1636</item>
+               <item>171 <hi>Ja. Mountaine</hi>'s Maſs in <hi>Latin</hi> and <hi>Engl.</hi> and <hi>Lat.</hi> with a Commentary — 1641</item>
+               <item>172 Bp. <hi>Tho. Morton</hi> of the Epiſcopacy of the Church of <hi>England</hi> — 1670</item>
+               <item>173 <hi>S. M</hi>'s Yernings of Chriſt's Bowels towards his Languiſhing Friends — 1648</item>
+               <item>174 Myſtery of Jeſuitiſme diſcovered in certain Letters — 1ſt. Vol. — 1658</item>
+               <item>175 <hi>Hen. More</hi>'s Divine Dialogues — 2. Vol. — 1668</item>
+               <item>176 Sir <hi>Tho. More</hi>'s Dialogue of Comfort againſt Tribulation — <hi>Antw.</hi> 1573</item>
+               <item>177 Modern Pleas for Comprehenſion and Toleration conſidered and diſcuſſed. <hi>Lond.</hi> 1675</item>
+               <item>178 <hi>Virg. Malvezzi</hi>'s <hi>David</hi> Perſecuted, Engliſhed by <hi>Rob. Aſhley</hi> — 1647</item>
+               <item>179 <hi>Tho. Manton</hi>'s Deſcription of the Riſe, Growth and Fall of Antichriſt — 1679</item>
+               <item>180 <hi>Hen. Nichols</hi>'s Mans fall from God and Chriſt —</item>
+               <item>181 — his Revelation of God, and of the Laſt day — 1649</item>
+               <item>182 <hi>Nalſon</hi>'s True Liberty and Dominion of Conſcience — 1677</item>
+               <item>183 <hi>Jo. Norton</hi>'s Diſcuſſion of the point concerning the Sufferings of Chriſt — 1653</item>
+               <item>184 <hi>Jo. Owen</hi>'s Exercitations concerning the Day of Sacred Reſt — 1671</item>
+               <item>185 — his Survey of Dr. <hi>Parker</hi>'s Diſcourſe concerning Eccleſiaſtical Polity — 1669</item>
+               <item>186 — his Defence of <hi>Jo. Cotton</hi> againſt <hi>D. Cawdry</hi> concerning Schiſme — <hi>Oxon,</hi> 1658</item>
+               <item>187 — of the Nature and Power of Temptation — 1658</item>
+               <item>188 The Original of the Soul, proved by Divine and Natural Reaſon — <hi>Lond.</hi> 1642</item>
+               <item>189 <hi>Jo. Oxenbridge</hi>'s Double Watch-word, or the Duty of Watching — 1661</item>
+               <item>190 <hi>Sim. Patrick</hi>'s Paraphraſe on the Book of <hi>Pſalms,</hi> with Arguments — 1680</item>
+               <item>191 — his Paraphraſe on the <hi>Proverb</hi>'s of <hi>Solomon</hi> — 1683</item>
+               <item>192 — his Diſcourſe concerning the Sacrament, the 4th Edition — 1676</item>
+               <item>193 <hi>S. Parkers</hi> Caſe of the Church of <hi>England</hi> ſtated in three Fundamental Principles 1681</item>
+               <item>194 <hi>Matth. Poole</hi>'s Nullity of the <hi>Romiſh</hi> Faith, with an <hi>Appendix — Oxon.</hi> 1667</item>
+               <item>195 — his Dialogue between a Popiſh Prieſt and an Engliſh Proteſtant — <hi>Lond.</hi> 1672</item>
+               <item>196 Principal Heads of the great Myſtery of Chriſtian Religion — 1662</item>
+               <item>197 <hi>Chr. Potter</hi>'s Want of Charity charged againſt the <hi>Romaniſts — Oxon.</hi> 1633</item>
+               <item>198 <hi>Rob. Parſon</hi>'s Treatiſe of the Three Converſions of <hi>England</hi> — 1ſt. Vol. — 1603</item>
+               <item>199 Philoſophical Eſſay concerning the Attributes of God, the Immortality of the Soul, <hi>&amp;c.</hi> — 1667</item>
+               <item>200 <hi>Jo. P<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſcator</hi>'s Aphoriſmes of the Chriſtian Religion — <hi>London,</hi> 1596</item>
+               <item>201 Bp. <hi>Jo. Prideaux</hi> his Doctrine of Practical Praying — 1655</item>
+               <item>202 <hi>Hugh Peters</hi> his Laſt Legacy to his Daughter — 1661</item>
+               <item>203 <hi>Rich. Resbury</hi>'s Examination of <hi>Jo. Goodwin</hi>'s Redemption Redeemed — 1652</item>
+               <item>204 <hi>Fran. Rous</hi> his Catholick Charity againſt the <hi>Romaniſts</hi> — 1641</item>
+               <item>205 <hi>W. Robertſon</hi>'s Admonitory Epiſtle to Mr. <hi>Baxter</hi> and <hi>Tho. Hotckiſs</hi> — 1655</item>
+               <item>206 <hi>Fra. Roberts</hi> Key of the Bible compleat — 2 Vol. — the 2d Edition — 1649</item>
+               <item>207 — his Believers Evidences for Eternal Life — 1642</item>
+               <item>208 <hi>Edw. Reyner</hi>'s Precepts for Chriſtian Practice, or Rule of the New Creature — 1655</item>
+               <pb n="17" facs="tcp:63472:12"/>
+               <item>209 <hi>Ralph Robinſon</hi>'s Chriſtian compleatly Armed againſt Temptations — <hi>Lond.</hi> 1656</item>
+               <item>210 Rehearſal Tranſpros'd, two parts, 2 Vol. by <hi>Andrew Marvell</hi> — 1672 1674</item>
+               <item>211 <hi>Rob. Ram</hi>'s Country-man's Catechiſme, or Help for Houſholders — 1655</item>
+               <item>212 Revelation Revealed concerning Chriſt's Reign on Earth a Thouſand years — 1650</item>
+               <item>213 <hi>Jo. Robotham</hi>'s Preciouſneſs of Chriſt unto Believers — 1647</item>
+               <item>214 Bp. <hi>Edw. Reynold</hi>'s Meditations on the Fall and Riſing of St. <hi>Peter</hi> — 1677</item>
+               <item>215 Bp. <hi>Franeis de Sales</hi> Treatiſe of the Love of God — <hi>Doway,</hi> 1630</item>
+               <item>216 <hi>Jo. Smith</hi>'s Pourtract of Old Age, or Sacred Anatomy of Soul and Body — <hi>Lond.</hi> 1676</item>
+               <item>217 State of Chriſtianity Examined, Unfolded, and Character'd — 1655</item>
+               <item>218 <hi>Jo. Sherman</hi>'s White Salt, or a Sober Correction of a Mad World — 1645</item>
+               <item>219 <hi>Tho. Sheappard</hi> of Subjection to Chriſt in all his Ordinances — 1652</item>
+               <item>220 <hi>Ob. Sedgwick</hi>'s Chriſt's Counſel to his Languiſhing Church of <hi>Sardis</hi> — 1640</item>
+               <item>221 <hi>Jo. Salimarſh</hi>'s Sparkles of Glory, or ſome Beams of the Morning-Star — 1647</item>
+               <item>222 —his Free-Grace, or the Flowing of Chriſt's Blood freely — 1646</item>
+               <item>223 <hi>G. Seignior</hi>'s Eight Sermons of God, the King, and the Church — 1670</item>
+               <item>224 <hi>Cuth. Sidenham</hi>'s Diſcourſe of Infant-Baptiſme, and Singing of Pſalms — 1653</item>
+               <item>225 —his Hipocriſie diſcovered in its Nature and Workings — 1654</item>
+               <item>226 —his Greatneſs of the Myſtery of Godlineſs — 1654</item>
+               <item>227 <hi>Rich. Saunders</hi>'s Balm to heal Religious Wounds — 1652</item>
+               <item>228 <hi>Rich. Stookes</hi> Truth's Champion, with Anſwers to divers Objections — 1649</item>
+               <item>229 <hi>W. Shelton</hi>'s Diſcourſe of Superſtition, in Vindication of the Church of <hi>England</hi> 1678</item>
+               <item>230 <hi>Joſ. Symmond</hi>'s three Godly Treatiſes — 1673</item>
+               <item>231 —his Caſe and Cure of a deſerted Soul — 1639</item>
+               <item>232 —his Sight and Faith, or Meditations on 2 <hi>Cor.</hi> 5.7. — 1651</item>
+               <item>233 <hi>L. Stuckley</hi>'s Goſpel glaſs, or a Call from Heaven to Sinners and Saints — 1670</item>
+               <item>234 Bp. <hi>Rob. Sanderſon</hi>'s ſeveral Caſes of Conſcience, diſcuſſed in 10 Lectures at <hi>Oxon</hi> 1660</item>
+               <item>235 —7 Lectures concerning the Obligation of Promiſſory Oaths — 1655</item>
+               <item>236 —his Epiſcopacy proved not prejudicial to Regal Power — 1661</item>
+               <item>237 —Five Caſes of Conſcience occaſionally determined — 1667</item>
+               <item>238 <hi>Rich. Sibbs</hi> Souls conflict with its Self — 1651</item>
+               <item>239 <hi>W. Spurſtow</hi>'s Spiritual Chymiſt, or ſix Decades of Divine Meditations — 1666</item>
+               <item>240 —his Wells of Salvation opened — 1655</item>
+               <item>241 <hi>W. Strong</hi>'s Subordination of the Will of Man to the Will of God — 1655</item>
+               <item>242 —his Heavenly Treaſure, or Man's Chiefeſt Good — 1656</item>
+               <item>243 —his Communion with God in Ordinances, the Saints Priviledge and Duty 1656</item>
+               <item>244 —his Hell Torments in the Certainty and Eternity of them — 1672</item>
+               <item>245 <hi>Joſ. Sprigg</hi>'s Teſtimony to an Approaching Glory — 1648</item>
+               <item>246 Sacrilegious Deſertion of the Holy Miniſtry Rebuked — 1672</item>
+               <item>247 <hi>Jo. Selden</hi>'s Tract proving the Nativity of Chriſt to be on the 25th of <hi>December</hi> 1661</item>
+               <item>248 <hi>Anth Sparrow</hi>'s Rationale on the Common-Prayer of the Church of <hi>England</hi> 1657</item>
+               <item>249 Dr. <hi>Stuarts</hi> Catholick Divinity, from the Primitive Doctors of the Church — 1657</item>
+               <item>250 <hi>Rich. Sherlock</hi>'s Principles of the Holy Chriſtian Religion — 1667</item>
+               <item>251 Dr. <hi>Edw. Stillingfleet</hi>'s Six Sermons with a Diſcourſe of the Sufferings of Chriſt 1669</item>
+               <item>252 —his Diſcourſe of the Idolatry of the Church of <hi>Rome</hi> — 1671</item>
+               <item>253 —his Anſwer to ſeveral Treatiſes againſt his Diſcourſe of Idolatry — 1673</item>
+               <item>254 —his Relation of a Confer. held betwixt him, Dr. <hi>Burnet,</hi> and ſome <hi>Romaniſts</hi> 1676</item>
+               <item>255 <hi>Jo. Sheffield</hi>'s Good Conſcience the ſtrongeſt hold — <hi>Lond.</hi> 1650</item>
+               <item>256 <hi>W. Twiſſe</hi>'s Doubting Chriſtian Reſolved — 1652</item>
+               <item>257 <hi>Herb. Thorndike</hi>'s Religious Aſſemblies, and the Publick Service of God. — <hi>Cambr.</hi> 1642</item>
+               <item>258 Dr. <hi>Jo. Tillotſon</hi>'s Sermons, Preached on ſeveral occaſions — <hi>Lond.</hi> 1671</item>
+               <pb n="18" facs="tcp:63472:13"/>
+               <item>259 —his Sermon Preached at the Funeral of Mr. <hi>Tho. Gouge — Lond.</hi> 1682</item>
+               <item>259 —his Rule of Faith, in Anſwer to Mr. <hi>Serjeant</hi>'s Sure-footing — 1666</item>
+               <item>261 <hi>Tho. Taylor</hi>'s Rule of the Law under the Goſpel — 1635</item>
+               <item>262 Bp. <hi>Jer. Taylor</hi>'s Doctrine and Practice of Repentance — 1655</item>
+               <item>263 —his Diſcourſe of Confirmation — 1664</item>
+               <item>264 —his Golden Grove, or a Manuel of Prayers and Letanies — 1655</item>
+               <item>265 —his Anſwer to the Bp. of <hi>Rocheſter</hi> concerning Original Sin — 1656</item>
+               <item>266 <hi>Dan. Toſſanus</hi> his Synopſis, or Compendium of the Fathers — 1637</item>
+               <item>267 <hi>Tho. Tomkins</hi> Strictures, or Animadverſions on Mr. <hi>Crofton</hi> — 1661</item>
+               <item>268 <hi>Anth. Tuckney</hi>'s Death diſarmed, at Dr. <hi>Hill</hi>'s Funeral St. <hi>Mary</hi>'s — <hi>Cambr.</hi> 1653, 1654</item>
+               <item>269 —his Good Way well improved, in Five Sermons — 1656</item>
+               <item>270 <hi>Jo. Tillinghaſt</hi>'s Generation Work, 3 Parts, 3 Volumes — 1653</item>
+               <item>171 — his Eight laſt Sermons on the Kingdom of Chriſt, <hi>&amp;c.</hi> — 1655</item>
+               <item>272 Mr. <hi>Truman</hi>'s Endeavour to Rectifie ſome prevailing opinions contrary to the Church of <hi>England</hi> — 1671</item>
+               <item>273 Triumphs of <hi>Rome</hi> over deſpiſed <hi>Proteſtancy</hi> — 1667</item>
+               <item>274 <hi>Jer. Turner</hi>'s ſeveral Sermons of the Promiſes — 1660</item>
+               <item>275 Nature Power, <hi>&amp;c.</hi> of Indwelling-ſin in Believers — 1668</item>
+               <item>276 The Touch-ſtone of Truth plainly proved — 1634</item>
+               <item>277 <hi>Tho Tillam</hi>'s Two Witneſſes, or an Expoſition of the 11th of the <hi>Revelations</hi> — 1651</item>
+               <item>278 <hi>W. Twiſſes</hi> Holy Scriptures, is the foundation of the True Church — 1652</item>
+               <item>279 Bp. <hi>
+                     <g ref="char:V">Ʋ</g>ſher</hi>'s Judgement of the extent of Chriſt's death, <hi>&amp;c.</hi> — 1658</item>
+               <item>280 —his Method for Meditation, or a Manual of Divine Duties — 1657</item>
+               <item>281 <hi>A. R</hi>'s View of the Jewiſh Religion, with the Articles of Faith now received — 1656</item>
+               <item>282 <hi>Rich. Vines</hi> Chriſt a Chriſtians only gain — 1661</item>
+               <item>283 <hi>R. Vennings Canaan</hi>'s Flowing with Milk and Honey — 1653</item>
+               <item>284 <hi>N. Vincent</hi>'s Diſcourſe concerning Love — 1684</item>
+               <item>285 Bp. <hi>Jo. Wilkins</hi> Sermons Preached upon ſeveral Occaſions — 1662</item>
+               <item>286 —his Principles and Duties of Natural Religion — 1675</item>
+               <item>287 —his Eccleſiaſtes, or a Diſcourſe concerning the Gift of Preaching — 1669</item>
+               <item>288 <hi>Jo. Wall</hi>'s none but Chriſt in divers Sermons, upon 1 <hi>Cor.</hi> 2.2. — 1650</item>
+               <item>289 <hi>Jo. White</hi>'s Way to the Tree of Life, with the Nature of a Spiritual Man — 1647</item>
+               <item>290 Cauſes and Decay of Chriſtian Piety, Large Letter — 1667</item>
+               <item>291 The Art of Contentment, by the Author of the Whole Duty of Man — <hi>Oxon,</hi> 1675</item>
+               <item>292 Sir <hi>Cha. Woolſley</hi>'s Diſcourſe of the Reaſonableneſs of Scripture Belief — <hi>Lond.</hi> 1672</item>
+               <item>293 <hi>Ant. Walker</hi>'s Sermon, at the Funeral of the Counteſs of <hi>Warwick</hi> — 1678</item>
+               <item>294 Wiſdom crying out to Sinners to Return from their Evil Ways — 1639</item>
+               <item>295 Bp. <hi>Seth. Ward</hi>'s Sermon at <hi>White-hall</hi> againſt Anti-Scripturiſts — 1670</item>
+               <item>296 <hi>Br. Walton</hi>'s Conſiderator Conſidered, in defence of the <hi>Biblia Poly-glotta</hi> — 1659</item>
+               <item>297 <hi>Wollebius</hi> his Abridgement of Chriſtian Divinity — 1660</item>
+               <item>298 <hi>Sa. Ward</hi>'s Collection of Sermons, with other Treatiſes — 1636</item>
+               <item>299 <hi>Tho. Watſon</hi>'s Diſcourſe on the Beatitudes — 1671</item>
+               <item>300 —his Saints delight, with a Treatiſe of Meditation — 1657</item>
+               <item>301 <hi>Jo. Wiſton</hi>'s Eſſay to Revive the Primitive Doctrine of Infant-Baptiſme — 1676</item>
+               <item>302 —his Select Arguments to prove Infant-Baptiſme — 1678</item>
+               <item>303 —his Diſcourſe concerning Man's Natural Proneneſs to Errour — 1682</item>
+               <item>304 <hi>An. Yeman</hi>'s Ways of God made known to Loſt Sinners, or beweldred Saints — 1648</item>
+            </list>
+            <pb n="19" facs="tcp:63472:13"/>
+            <list>
+               <head>
+                  <hi>Divinity,</hi> Twelves, Sixteens, <hi>&amp;c.</hi>
+               </head>
+               <item>305 BIſhop <hi>Andrews</hi> Manual of Directions for the Viſitation of the Sick — <hi>Lond.</hi> 1642</item>
+               <item>306 Aſſemblies Confeſſion of Faith, with the Larger and Shorter Catechiſme — 1651</item>
+               <item>307 <hi>Jo. Batchiler</hi>'s Golden Sands, or ſome hints about Riches of Grace — 1647</item>
+               <item>308 <hi>Jac. Behmen</hi>'s Way to Chriſt, diſcovered in three Treatiſes — 1648</item>
+               <item>309 <hi>W. Bradſhaw</hi>'s Treatiſe of Juſtification — 1652</item>
+               <item>310 <hi>Rob.</hi> Ld. <hi>Brookes</hi> Nature of Truth, its Union with the Soul — 1640</item>
+               <item>311 <hi>Rich. Baxter</hi>'s Only way to bring us all to be of one Religion — 1660</item>
+               <item>312 —his Treatiſe of Death, being ſeveral Funeral Sermons — 1660</item>
+               <item>313 —his Now or Never, neceſſary for all Chriſtians — 1662</item>
+               <item>314 —his Vain Religion of the Formal Hypocrite — 1660</item>
+               <item>315 —his True Catholick, and Catholick-Church deſcribed — 1660</item>
+               <item>316 —his True Chriſtianity, in two Aſſize Sermons at <hi>Worceſter</hi> — 1655</item>
+               <item>317 <hi>Ant. Burgeſs</hi> his Treatiſe of Self-judging, in order to receive the Sacrament — 1658</item>
+               <item>318 <hi>Gilb. Burnett</hi>'s Method for proving the Truth of the Chriſtian Religion — 1675</item>
+               <item>319 <hi>Biddle</hi> Diſpoſſeſt, or his Scripture perverting Catechiſ. Reformed by Scripture 1654</item>
+               <item>320 St. <hi>Bonaventure</hi>'s Soliloquies, Meditations and Prayers — 1655</item>
+               <item>321 <hi>Ez. Culverwell</hi>'s Treatiſe of Faith — 1648</item>
+               <item>322 <hi>Jo. Collings</hi> Spouſe under the Apple-Tree, or the State of the Elect by Nature 1649</item>
+               <item>323 <hi>Jo. Corbett</hi>'s Self-Imployment in Secret — 1681</item>
+               <item>324 Mr. <hi>Cauſſin</hi>'s Entertainments for Lent — 1661</item>
+               <item>325 —his Angel of Peace to all Chriſtian Princes — 1650</item>
+               <item>326 <hi>Tho. Caſe's Eliah</hi>'s Abatement, or Corruption in the Saints — 1658</item>
+               <item>327 —his Morning Exerciſe, or ſhort Notes taken out of Morning Sermons — 1655</item>
+               <item>328 <hi>Tho. Collier</hi>'s Exaltation of Chriſt — 1655</item>
+               <item>329 <hi>D. Cawdry</hi>'s Family Reformation, promoted in a Sermon — 1655</item>
+               <item>330 <hi>Zach. Crofton</hi>'s Altar-Worſhip, or bowing to the Communion-Table conſidered 1661</item>
+               <item>331 Bp. <hi>Duppa</hi>'s Holy Rules and Helps to Devotion — 1674</item>
+               <item>332 The Doctrine of the Bible, or Rules of Diſcipline — 1649</item>
+               <item>333 Eſſay of Afflictions, or a Balm to Comfort thoſe that are under Misfortunes — 1647</item>
+               <item>334 Free and Impartial Enquiry into the Carriage of the Non-Conforming Preachers 1673</item>
+               <item>335 Forbidden Fruit, or a Treatiſe of the Tree of knowledge of Good and Evil — 1640</item>
+               <item>336 <hi>H. Fern</hi> of the Diviſion between the <hi>Engliſh</hi> and the <hi>Romiſh</hi> Church — 1652</item>
+               <item>337 <hi>Jo. Gerhard</hi>'s ſumm of Chriſtian Doctrine — <hi>Cambr.</hi> 1640</item>
+               <item>338 <hi>Jo. Goodwin</hi>'s Return of Mercies, or the Saints Advantage by Loſſes — <hi>Lond.</hi> 1641</item>
+               <item>339 <hi>Tho. Goodwin</hi>'s Happineſs of the Saints in Glory — 1638</item>
+               <item>340 <hi>Jo. Gaule</hi>'s Select Caſes of Conſcience, touching Witches and Witchcraft — 1646</item>
+               <item>341 Grand Caſe of the preſent Miniſtry conſidered about Uniformity — 1663</item>
+               <item>342 Bp. <hi>Hall</hi>'s Reſolutions and Deciſions of divers Practical Caſes of Conſcience — 1649</item>
+               <item>343 —his Remedy of Diſcontentment, or a Treatiſe of Contentation — 1654</item>
+               <item>344 <hi>Tho. Hall</hi>'s Confutation of the <hi>Millenarian</hi> opinion, concerning Chriſt's Reign on Earth — 1655</item>
+               <item>345 <hi>Jo. Humfry</hi>'s Vindication of Free Admiſſion unto the Lords-Supper — 1653</item>
+               <item>346 <hi>Joſ. Henſhaw</hi>'s Spare Hours of Meditations — 1650</item>
+               <item>347 <hi>Rich. Hollingworth</hi>'s Holy-Ghoſt on the Bench, other Spirits at the Barr — 1656</item>
+               <item>348 Hiſtory of the Life, Death and Reſurrection of Moderation — 1669</item>
+               <item>349 <hi>H. Jeſſey</hi>'s Store-houſe of Proviſion, for Reſolving Caſes of Conſcience — 1650</item>
+               <item>350 Bp. <hi>Jewell</hi>'s Apology of the Church of <hi>England</hi> — 1615</item>
+               <pb n="20" facs="tcp:63472:14"/>
+               <item>351 Bp. <hi>Laud</hi>'s <hi>Officium Quotidianum,</hi> or Manual of Private Devotions — <hi>Lond.</hi> 1650</item>
+               <item>352 <hi>Jo. Leſley</hi>'s Confutation of Separation from Parochial Church-Communion — 1656</item>
+               <item>353 <hi>Tho. Longland</hi>'s Meditations on the Four laſt things — 1657</item>
+               <item>354 <hi>Nic. Lockyer</hi>'s Chriſt's Communion with his Church Militant — 1650</item>
+               <item>355 — Little Stone out of the Fountain, Church-Order briefly opened — 1652</item>
+               <item>356 <hi>Jo. Lightfoot</hi>'s Erubin, or Miſcellanies Judaical — 1629</item>
+               <item>357 <hi>Hen. Maſon</hi>'s Hearing and Doing the Ready way to Bleſſedneſs — 1653</item>
+               <item>358 Manual of Prayer, of Principles, and Reſolutions — 1672</item>
+               <item>359 <hi>Arth. Manton</hi>'s Touch-ſtone of Converſion, or Marks of true Faith — 1647</item>
+               <item>360 <hi>Tho. White</hi>'s Manual of Divine Conſideration — 1655</item>
+               <item>361 Muſter Roll of the Evil Angels, embattel'd againſt St. <hi>Michael</hi> — 1655</item>
+               <item>362 <hi>Jo. Melvin</hi>'s Collection of Serious and Pious Meditations, <hi>&amp;c.</hi> — 1659</item>
+               <item>363 <hi>Rob. Purnell</hi>'s Exhortation to a Holy Life or Converſation — 1663</item>
+               <item>364 Publick Diſputation betwixt <hi>Tombs</hi> and <hi>Cragge,</hi> concerning Infant-Baptiſme — 1654</item>
+               <item>365 <hi>H. Peters</hi> Good Work for a Good Magiſtrate — 1651</item>
+               <item>366 Popery Abſolutely deſtructive to Monarchy, proved by Examples — 1673</item>
+               <item>367 <hi>Vav. Powell</hi>'s Spiritual Experiences of Sundry Believers — 1652</item>
+               <item>368 —his Manner and Practice of the gathered Churches — 1653</item>
+               <item>369 Philoſophical Eſſay concerning the Attributes and Immortal. of the Soul. <hi>Oxon,</hi> 1652</item>
+               <item>370 <hi>Euſeb. Pagitt</hi>'s Hiſtory of the Bible, by way of Queſtion and Anſwer — <hi>Lond.</hi> 1645</item>
+               <item>371 <hi>Sa. Richardſon</hi>'s Divine Conſolations, or the Teachings of God, in three Parts — 1649</item>
+               <item>372 <hi>Fr. Rouſe</hi>'s Myſtical Marriage betwixt Chriſt and his Church — 1635</item>
+               <item>373 <hi>G. Randall</hi>'s Single Eye, Entituled the Viſion of God — 1646</item>
+               <item>374 Bp. <hi>Ruſt</hi>'s Two Diſcourſes of Truth, Way of Happineſs and Salvation — 1677</item>
+               <item>375 St. <hi>Benedict</hi>'s Rule of Perfection — <hi>Rouen,</hi> —</item>
+               <item>376 <hi>Al. Roſs</hi>'s Picture of Conſcience Drawn to the Life — <hi>Lond.</hi> 1645</item>
+               <item>377 <hi>Joſ. Sprigge</hi>'s Further Teſtimony of the Glory that is near — 1649</item>
+               <item>378 <hi>Tho. Sheappard</hi>'s Reſolution of Four neceſſary Caſes of Conſcience — 16—</item>
+               <item>379 —his certain Select Caſes Reſolved — 1648</item>
+               <item>380 <hi>Rich. Sibbes</hi> his Bruiſed-Reed, and Smoaking-Flax — 1638</item>
+               <item>381 <hi>Jo. Sprint</hi>'s Propoſitions Proving the neceſſary Uſe of the Sabbath — 1635</item>
+               <item>382 <hi>Stafford</hi>'s Niobe, or his Age of Tears — 1611</item>
+               <item>383 <hi>Tho. Sheappard</hi>'s Way to walk comfortably with God — 1648</item>
+               <item>384 Major Gen. <hi>Skippon</hi>'s Chriſtian Centurian, Obſervations, Advices and Reſolutions 1645</item>
+               <item>385 Treatiſe of Baptiſme, in Thirty eight Chapters — 1646</item>
+               <item>386 <hi>Jo. Tombe</hi>'s Chriſt's Commination againſt Scandalizers — 1641</item>
+               <item>387 Three Miniſters communicating their Notions, touching ſeveral Texts — 1675</item>
+               <item>388 <hi>Theologia Germanica,</hi> or Myſtical Divinity, a little Golden Manual — 1646</item>
+               <item>389 <hi>Jo. Timſon</hi>'s Barr to the Free admiſſion to the Sacrament Removed — 1654</item>
+               <item>390 Treatiſe of Temples, diſcovering the Ancient Building and Conſecrating them 1638</item>
+               <item>391 <hi>Rich. Tempeſt</hi>'s Entertainments of Solitarineſs — 1649</item>
+               <item>392 Tryal of Conſcience in a Quotidian Exerciſe by <hi>T. Riley</hi> — 1639</item>
+               <item>393 <hi>Ralph. Venning</hi>'s Things worth thinking on, or Helps to Piety — 1665</item>
+               <item>394 —his Milk and Honey, or a Collection of Chriſtian Experiences, <hi>&amp;c.</hi> — 1653</item>
+               <item>395 <hi>Rob. Walwyn</hi>'s Plea for a Reproached Miniſtry — 1654</item>
+               <item>396 <hi>Jo. Wall</hi>'s None but Chriſt, in divers Sermons — 1648</item>
+               <item>397 <hi>Tho Watſon</hi>'s Divine Cordial, or the Priviledge of thoſe that Love God — 1663</item>
+               <item>398 —The Chriſtians Charter, with the Priviledges of Believers — 1652</item>
+               <item>399 Sir <hi>Cha. Woolſey</hi>'s Caſe of Divorce Diſcuſſed — 1673</item>
+               <item>400 <hi>Cad. Winne</hi>'s Antidote againſt Sorrow — 1650</item>
+               <pb n="21" facs="tcp:63472:14"/>
+               <item>401 <hi>Tho. White</hi>'s Pattern of Chriſtian Perfection — <hi>Lond.</hi> 1653</item>
+               <item>402 <hi>Tho. Warmſtry</hi>'s Sighs of the Church and Common wealth of <hi>England</hi> — 1648</item>
+               <item>403 Bp. <hi>Jo. Wilkins</hi> his Diſcourſe of the Beauty of Providence — 1649</item>
+               <item>404 <hi>Jo. Colling</hi>'s Godly Life and Death of <hi>Mary Sympſon</hi> — 1649</item>
+            </list>
+            <list>
+               <head>
+                  <hi>Miſcellanies,</hi> viz. <hi>Hiſtory, Philology, &amp;c.</hi> in Folio.</head>
+               <item>1 <hi>LAnnaeus Seneca</hi>'s Works inlarged and Corrected by <hi>S. Lodge — Lond. —</hi>
+               </item>
+               <item>2 <hi>Virg. Malvezzi</hi>'s Diſcourſes upon <hi>Cornelius Tacitus</hi> — 1642</item>
+               <item>3 <hi>Pet. Heylyn</hi>'s Coſmographie, or Hiſtory of the World in Four Books — 1666</item>
+               <item>4 <hi>Tho. Fuller</hi>'s Piſgah-ſight of <hi>Paleſtine,</hi> with all the Maps — 1650</item>
+               <item>5 Hiſtory of <hi>Joſephus,</hi> of the Wars, <hi>&amp;c.</hi> of the <hi>Jews</hi> — 1640</item>
+               <item>6 —<hi>Hen. Foulis</hi> Hiſtory of the <hi>Romiſh</hi> Treaſons and Uſurpations — 1671</item>
+               <item>7 —Hiſtory of the Civil-Wars of Chriſtendom, by <hi>G. Priorato</hi> — 1648</item>
+               <item>8 —<hi>Ja. Howell</hi>'s Hiſtory of the Life and Death of <hi>Lewis</hi> the 13th of <hi>France</hi> — 1646</item>
+               <item>9 —<hi>G. Bucke</hi>'s Hiſtory of <hi>Richard</hi> the Third, in Five Books — 1646</item>
+               <item>10 —Ld. <hi>Herbert</hi>'s Life and Reign of King <hi>Henry</hi> the Eighth — 1649</item>
+               <item>11 —<hi>Tho. May</hi>'s Hiſtory of the Parliament of <hi>England</hi> — 1647</item>
+               <item>12 —<hi>Fr. Biondi</hi>'s Hiſtory of the Civil-Wars of <hi>England,</hi> Two Parts compleat — 1641</item>
+               <item>13 —<hi>Joſ. Sprigge</hi>'s <hi>Englands</hi> Recovery, being an Hiſtory of the Parliament Forces — 1647</item>
+               <item>14 — Faithful Regiſter of Tranſactions in Parliament, in the 3d and 4th year of King <hi>Charles</hi> the 1ſt. by <hi>Th. Fuller</hi> — 1654</item>
+               <item>15 Sir <hi>Francis Bacon</hi>'s Natural Hiſtory in Ten Centuries — 1631</item>
+               <item>16 <hi>Nic. Culpepper</hi>'s <hi>London</hi> Diſpenſatory, the Third Edition — 1651</item>
+               <item>17 Sir <hi>Tho. Browne</hi>'s Enquiries into Vulgar Errors — 1646</item>
+               <item>18 Ld. <hi>Coke</hi>'s 3d Part of the Inſtitutes of the Laws of <hi>Engl.</hi> concern. High-Treaſ. <hi>&amp;c.</hi> 1644</item>
+            </list>
+            <list>
+               <head>
+                  <hi>Miſcellanies,</hi> viz. <hi>Hiſtory, Philology, Law, &amp;c.</hi> in Quarto.</head>
+               <item>19 <hi>CAmbden</hi>'s Annals, and Hiſtory of Queen <hi>Elizabeth</hi> —</item>
+               <item>20 <hi>Digby</hi>'s Treatiſes of Bodies and of the Immortality of Souls — 1645</item>
+               <item>21 Dr. <hi>Charlton</hi>'s Natural Hiſtory of Nutrition, Life, <hi>&amp;c.</hi> — 1659</item>
+               <item>22 <hi>Venner</hi>'s Way and Manner of Living to attain to a Long-Life — 1650</item>
+               <item>23 <hi>Alex. Roſſe</hi>'s the Earth no Wandring-Star, except in the Heads of Wandr. <hi>Galileans</hi> 1646</item>
+               <item>24 <hi>Blundevile</hi>'s Eight Treatiſes in Aſtronomy, Navigation, Geography — 1636</item>
+               <item>25 <hi>Feltham</hi>'s Reſolves upon various Subjects, with a Table — 1636</item>
+               <item>26 <hi>Sadler</hi>'s Rights of the Kingdom and Cuſtoms of our Anceſtors — 1649</item>
+               <item>27 <hi>Bacon</hi>'s Hiſtorical Diſcourſe of the Uniformity of the Government of <hi>England</hi> 1647</item>
+               <item>28 Dr. <hi>Coſens</hi> Abſtract of Queen <hi>Elizabeths</hi> Injunctions, Canons, Conſtitutions —</item>
+               <item>29 —Apology for proceedings in Courts Eccleſiaſtical, 3d Part —</item>
+               <item>30 <hi>Godolphin</hi>'s Abridgement of the Eccleſiaſtical Laws of this Kingdom — 1678</item>
+               <item>31 <hi>Cowelt</hi>'s Interpreter of the ſignification of Words in the Law — 1637</item>
+               <item>32 <hi>Doderidg</hi>'s Engliſh Lawyer, or a Method for Managing the Laws — 1631</item>
+               <item>33 Ld. <hi>Bacon</hi>'s Elements of the Common Laws of <hi>England</hi> — 1639</item>
+               <item>34 —his Proficiency and Advancement of Learning — 1633</item>
+               <item>35 <hi>Jeane</hi>'s Image Unbroken, in Defenſe of <hi>Eron Baſilike</hi> againſt <hi>Milton</hi> — 1651</item>
+               <item>36 <hi>Brerewood</hi>'s Enquiries touching Languages, and Religions in the World — 1635</item>
+               <item>37 <hi>Charron</hi> of Wiſdom in Three Books, Engliſhed by <hi>Sampſ. Lennard</hi> —</item>
+               <item>38 <hi>Prideaux</hi>'s Compendious Introduction for Reading Hiſtories — <hi>Oxon,</hi> 1648</item>
+               <item>39 Sir <hi>R. Barclay</hi>'s Diſcourſe of the Felicity of Man — <hi>Lond.</hi> 1603</item>
+               <pb n="20" facs="tcp:63472:15"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="21" facs="tcp:63472:15"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="22" facs="tcp:63472:16"/>
+               <item>40 <hi>Goodwyn</hi> and <hi>Rous Roman, Jewiſh</hi> and <hi>Attick</hi> Antiquities — <hi>Lond.</hi> 1641</item>
+               <item>41 <hi>Gale</hi>'s Court of the Gentiles, 3. Vol. 3. Parts — <hi>Oxon,</hi> 1660</item>
+               <item>42 <hi>Seir Du Ryer</hi>'s Alcoran of <hi>Mahomet,</hi> Engliſhed out of <hi>Arabick — Lond.</hi> 1649</item>
+               <item>43 An Exercitation about Uſurped Powers, and the difference betwixt Civil Power and Uſurpation Stated —</item>
+               <item>44 <hi>Sophonisba,</hi> or <hi>Hanniball</hi>'s Overthrow, a Tragedy, by <hi>Nat. Lee</hi> — 1676</item>
+            </list>
+            <list>
+               <head>
+                  <hi>Miſcellanies,</hi> viz. <hi>Hiſtory, Lives, Law, Phyſick,</hi> Octavo's, Twelves, <hi>&amp;c.</hi>
+               </head>
+               <item>45 <hi>Walton</hi>'s Lives of Dr. <hi>Donne,</hi> Sir <hi>H. Wotton, Hooker, Herbert — Lond.</hi> 1670</item>
+               <item>46 —of the States-men and Favourites of <hi>Engl.</hi> ſince the Reform. Gilt back 1670</item>
+               <item>47 —of <hi>John Earl</hi> of <hi>Rocheſter,</hi> by Dr. <hi>Burnett</hi> — 1680</item>
+               <item>48 —of the Reverend Arch biſhop <hi>
+                     <g ref="char:V">Ʋ</g>ſher,</hi> by Dr. <hi>Bernard</hi> — 1656</item>
+               <item>49 —of Mr. <hi>John Bruen</hi> of <hi>Staploford,</hi> by <hi>W. Hinde</hi> — 1654</item>
+               <item>50 —of Sir <hi>Matthew Hale,</hi> Lord Chief Juſtice, by Dr. <hi>Burnet</hi> — 1682</item>
+               <item>51 —of Mr. <hi>Joſeph Allein,</hi> Miniſter of <hi>Taunton</hi> — 1683</item>
+               <item>52 —of General <hi>Monk,</hi> Duke of <hi>Albemarle,</hi> by Dr. <hi>Gumble</hi> — 1671</item>
+               <item>53 —of Sir <hi>Thomas Moore,</hi> Lord Chancellor of <hi>England</hi> — 1652</item>
+               <item>54 —of <hi>Edward</hi> the Second, King of <hi>England,</hi> by the Lord <hi>Falkland</hi> — 1680</item>
+               <item>55 —of <hi>Nathaniell Butler,</hi> by <hi>Randolph Yearwood</hi> — 1657</item>
+               <item>56 —of <hi>Francis Spira,</hi> by <hi>Nathan. Bacon</hi> — 1649</item>
+               <item>57 —of <hi>John Fiſher,</hi> Bp. of <hi>Rocheſter,</hi> by <hi>Tho. Bayley</hi> — 1655</item>
+               <item>58 —of Sundry Perſonages, with other Pieces, by Sir <hi>Hen. Wotton</hi> — 1672</item>
+               <item>59 —of the Fathers, <hi>viz. Juſtin Martyr, Ignatius, Clements, &amp;c.</hi> by <hi>Hanmer</hi> — 1677</item>
+               <item>60 —of the Apoſtle St. <hi>Paul,</hi> by the Biſhop of <hi>Graſſe</hi> — 1683</item>
+               <item>61 —of Mr. <hi>Samuel Crooke,</hi> Paſtor of <hi>Wrington</hi> — 1655</item>
+               <item>62 Hiſtory of the Inquiſition, by <hi>Paul Servita</hi> — 1685</item>
+               <item>63 Dr. <hi>Hickes Jovian,</hi> or an Anſwer to <hi>Johnſon</hi>'s Life of <hi>Julian</hi> — 1683</item>
+               <item>64 Dr. <hi>Spencer</hi>'s Diſcourſe of Prodigies, with an account of Vulgar Prophecies — 1668</item>
+               <item>65 <hi>Gaſſendus</hi> Vanity of Judiciary Aſtrology, or Divination by the Stars — 1659</item>
+               <item>66 Hiſtory of his Majeſties (K. <hi>Ch.</hi> 2d.) Preſervation after the Battel at <hi>Worceſter</hi> 1662</item>
+               <item>67 <hi>Broughton</hi>'s Hiſtorical Account of the Founding of Monaſteries in <hi>England</hi> — 1655</item>
+               <item>68 <hi>Grotius</hi> of War and Peace, with Annotations and Memorials of his Life — 1655</item>
+               <item>69 <hi>Burnet</hi>'s Hiſtory of the Reformation Abridged — 1682</item>
+               <item>70 <hi>Heath</hi>'s Chronicle of the Wars of <hi>England, Scotland</hi> and <hi>Ireland</hi> — 1663</item>
+               <item>71 <hi>Plato</hi>'s Apologie of <hi>Socrates,</hi> with the Manner of <hi>Socrates</hi> Death — 1675</item>
+               <item>72 <hi>Roſſes Myſtagogus Poeticus,</hi> explaining the Myſteries of the Poets — 1648</item>
+               <item>73 Relation of the Court of <hi>Rome,</hi> with the whole Government thereof — 1654</item>
+               <item>74 Hiſtory of the Pope's Nephews, with the Reaſons of their Greatneſs — 1669</item>
+               <item>75 Monarchy aſſerted to be the beſt Form of Government, in ſeveral Speeches — 1660</item>
+               <item>76 <hi>Verſtegan</hi>'s Antiquities of <hi>England,</hi> in the <hi>Engliſh Saxons</hi> times — 1653</item>
+               <item>77 <hi>More</hi>'s <hi>Conjectura Cabaliſtica,</hi> Interpreting the Mind of <hi>Moſes</hi> — 1653</item>
+               <item>78 <hi>Mer. Caſaubon</hi>'s Treatiſe of Enthuſiaſme, as it is an effect of Nature — 1655</item>
+               <item>79 Hiſtory of <hi>Juſtin,</hi> with the Epitome of the Lives of the <hi>Roman</hi> Emperors — 1654</item>
+               <item>80 <hi>Wren</hi>'s Monarchy aſſerted againſt <hi>Harrington</hi>'s <hi>Oceana</hi> — 1660</item>
+               <item>81 Epitome of all the Lives of the <hi>French</hi> Kings — 1639</item>
+               <item>82 Duke of <hi>Rohan</hi>'s Intereſt of Princes and States of Chriſtendom — 1641</item>
+               <item>83 Court and Character of King <hi>James,</hi> by Sir <hi>A Weldon</hi> — 1650</item>
+               <item>84 <hi>Aulicus Coquinariae,</hi> or an Anſwer to the Court and Character — 1650</item>
+               <item>85 <hi>Malvezzi</hi>'s Portraict of the Politick Chriſtian Favourite — 1647</item>
+               <pb n="23" facs="tcp:63472:16"/>
+               <item>86 <hi>Monk</hi>'s Hood pull'd of, or the Capuchin Fryer deſcribed — <hi>Lond.</hi> 1671</item>
+               <item>87 <hi>Wild</hi>'s <hi>Iter Boreale,</hi> with other ſelect Poems — 1671</item>
+               <item>88 Account of the Scituation, former State and Siege of <hi>Stetin</hi> — 1678</item>
+               <item>89 <hi>Filmore</hi>'s Diſcourſe of the Lawfulneſs of Uſury — 1653</item>
+               <item>90 <hi>Roſſes</hi> Obſervations on <hi>Hobs Leviathan,</hi> and Sir <hi>Walt. Rawleigh</hi>'s Hiſtory — 1653</item>
+               <item>91 <hi>Fuller's Andronicus,</hi> or the Unfortunate Polititian — 1646</item>
+               <item>92 Preſent State of <hi>Geneva,</hi> with a deſcription of that City — 1681</item>
+               <item>93 Preſent State of the Republick of <hi>Italy,</hi> with Obſervations — 1668</item>
+               <item>94 Preſent State of <hi>England,</hi> with Reflections on the Ancient State — 1669</item>
+               <item>95 <hi>Hobbs</hi> Hiſtory of the Civil Wars of <hi>England</hi> — 1680</item>
+               <item>96 Great Evil of Health-drinking, with the original of that Evil — 1684</item>
+               <item>97 <hi>French Littleton,</hi> or a Ready way to Learn <hi>French</hi> — 1639</item>
+               <item>98 Letters betwixt the Ld. <hi>George Digby,</hi> and Sir <hi>Kenelm,</hi> touching Religion — 1651</item>
+               <item>99 <hi>Bales</hi> Acts of the Engliſh Votaries, with their unchaſt Practices —</item>
+               <item>100 <hi>Wodenotes</hi> New Deſcants on Old Records — 1649</item>
+               <item>101 <hi>Greave</hi>'s Deſcription of the Grand Turk's Seraglio — 1653</item>
+               <item>102 Politick Chriſtian Favourite, by <hi>Malvezzi</hi> — 1647</item>
+               <item>103 Bp. <hi>Taylor</hi>'s Meaſures and Offices of Friendſhip — 1657</item>
+               <item>104 Bp. <hi>Abbot</hi>'s Brief Deſcription of the whole World — 1656</item>
+               <item>105 Marqueſs of <hi>Argile</hi>'s Inſtructions to his Son — 1667</item>
+               <item>106 Sir <hi>Walt. Rawleigh</hi>'s Inſtructions to his Son, and to Poſterity — 1633</item>
+               <item>107 <hi>Howell</hi>'s Inſtructions for Forraign Travel — 1642</item>
+               <item>108 <hi>Clifford</hi>'s Treatiſe of Humane Reaſon, and its Examination, 2. Vol. — 1674</item>
+               <item>109 <hi>T. B</hi>'s Original of Kingly and Eccleſiaſtical Government — 1681</item>
+               <item>110 <hi>P. Cuncus</hi> Common-wealth of the <hi>Hebrews</hi> — 1653</item>
+               <item>111 Plea for Monarchy, ſetting forth the Right of Kings, by <hi>Barker</hi> — 1660</item>
+               <item>112 Modern Policies out of <hi>Machiavel, Ceſar, Borgia</hi> — 1652</item>
+               <item>113 <hi>Satyrae Seriae,</hi> or the Secrets of things, written in Politick Obſervations — 1640</item>
+               <item>114 Bp. <hi>Earl</hi>'s Characters and Eſſays — 1669</item>
+               <item>115 <hi>Caliopes</hi> Cabinet opened, with a Dictionary explaining Heraldical terms — 1674</item>
+               <item>116 <hi>Torſhel</hi>'s Womans Glory, aſſerting the due Honour of that Sex — 1645</item>
+               <item>117 <hi>Epictetus</hi> Manual, <hi>Cebe</hi>'s Table, <hi>Theophraſtus</hi> Characters — 1636</item>
+               <item>118 <hi>Regales Aphoriſmi,</hi> or the Royal Chain of K. <hi>James</hi> Sentences, <hi>&amp;c</hi> — 1650</item>
+               <item>119 <hi>Polite<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>phuia,</hi> or Wits Commonwealth —</item>
+               <item>120 <hi>Goodall</hi>'s Colledge of Phyſitians Vindicated, and the State of Phyſick repreſent. 1676</item>
+               <item>121 <hi>Maynwaring</hi>'s Preſervation of Health, and Prolongation of Life — 1670</item>
+               <item>122 —Treatiſe of the <hi>Scurvy,</hi> and the different opinions of Writers about it — 1672</item>
+               <item>123 <hi>Caſtle</hi>'s Chym. Gal. with an account of the Ancients in the Theory of Phyſick 1667</item>
+               <item>124 Idea of Humane Nature in Philoſophical and Anatomic. Collections — 1655</item>
+               <item>125 <hi>Butler</hi>'s Feminine Monarchy, a Treatiſe of the ways of ordering of <hi>Bees, Oxon.</hi> 1659</item>
+               <item>126 <hi>Roſſ. Medicus Medicatus,</hi> or Animadverſions on Sir <hi>K D<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>gby</hi>'s Obſer<g ref="char:EOLhyphen"/>vations on <hi>Religio Medici — Lond.</hi> 1645</item>
+               <item>127 Treatiſe of the <hi>Scurvy,</hi> with a Method for Prevention and Cure — 1665</item>
+               <item>128 <hi>Sanctorii Medicina Scatica,</hi> or Rules of Health in 8. Sect. of Aphoriſm. — 1676</item>
+               <item>129 Sir <hi>Kene<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>m Digby</hi>'s Diſcourſe of Curing Wounds by the Powder of Sympathy 1658</item>
+               <item>130 <hi>Thompſon</hi>'s Hiſtorical Account of the Diſſection of a Peſtilential Body — 1666</item>
+               <item>131 <hi>Wood</hi>'s Epitome of moſt experienced Secrets in Phyſick and Chyrurgery — 1651</item>
+               <item>132 <hi>Galen</hi>'s Art of Phyſick, Engliſhed by <hi>Culpepper</hi> — 1652</item>
+               <item>133 <hi>Vaughan</hi>'s <hi>Anthropoſophia Theomagica</hi> — 1650</item>
+               <item>134 <hi>Matthew</hi>'s Unlearned Alchymiſt Antidote, being a deſcription of <hi>Matthew</hi>'s Pill 1660</item>
+               <pb n="24" facs="tcp:63472:17"/>
+               <item>135 <hi>Read</hi>'s Anatomy, with Anatomical Sculptures — <hi>Lond.</hi> 1638</item>
+               <item>136 Aphoriſms of <hi>Hippocrates,</hi> with a Short Comment on each — 1655</item>
+               <item>137 <hi>Medicina Diaſtatica,</hi> or Sympathetical Mumie out of <hi>Paracelſus, &amp;c.</hi> — 1653</item>
+               <item>138 Warm Beer, a Treatiſe, declaring Beer ſo qualified is more wholſom — 1641</item>
+               <item>139 <hi>Leſſius</hi> Right Courſe of preſerving Health to extream Age, 24<hi rend="sup">o</hi> — <hi>Camb.</hi> 1636</item>
+               <item>140 Gentleman's Jockey, or approved Farrier, with Cutes for Horſes — <hi>Lond.</hi> 1672</item>
+               <item>141 Perfect Horſeman, or the experienced Secrets of <hi>markham</hi>'s 50 years Practice 1655</item>
+               <item>142 <hi>Ridley</hi>'s View of the Civil and Eccleſiaſtical Law — <hi>Oxon.</hi> 1666</item>
+               <item>143 <hi>Degg</hi>'s Parſons Counſellor, with the Law of Tythes and Tithing — <hi>Lond.</hi> 1676</item>
+               <item>144 <hi>Hughs</hi> Parſons Law Collected out of the whole Body of the Law — 1641</item>
+               <item>145 <hi>Sheppard</hi>'s Sure Guide for his Majeſties Juſtices of the Peace — 1663</item>
+               <item>146 <hi>Meriton</hi>'s Landlords Law, a Collection of Caſes in Law relating to Landlords — 1681</item>
+               <item>147 Offices of Conſtables, Churchwardens, Overſeers of the Poor, <hi>&amp;c.</hi> —</item>
+               <item>148 Topicks of the Laws of <hi>England,</hi> with Reflections on ſeveral Caſes — 1647</item>
+               <item>149 <hi>Wingate</hi>'s Body of the Common Law of <hi>England</hi> — 1655</item>
+               <item>150 Engliſh Liberties, or the Free born Subjects Inheritance —</item>
+               <item>151 Compleat Juſtice, a Collection of Statutes relating to Juſtices — 1646</item>
+               <item>152 <hi>Phillips</hi> Directions for the Study of the Law under ſeveral Heads — 1675</item>
+               <item>153 <hi>Derham</hi>'s Manual of the Rights and Priviledges belonging to Parliaments — 1658</item>
+               <item>154 Opinions of Learned Antiquaries, touching the Power of Parliaments — 1658</item>
+               <item>155 <hi>Grimſton</hi>'s Collection of Orders heretofore uſed in Chancery — 1649</item>
+               <item>156 Doctor and Student in Engliſh, with new Additions — 1660</item>
+               <item>157 <hi>Phillip</hi>'s Principles of the Law Reduced to Practice — 1660</item>
+               <item>158 The Sollicitor, his Parts, Qualities, Endowments, <hi>&amp;c.</hi> — 1663</item>
+               <item>159 View of all the Statutes of this Land, touching the Service of God — 1655</item>
+               <item>160 Sir <hi>John Burroughs</hi> Soveraignty of the Brittiſh Seas — 1651</item>
+            </list>
+            <list>
+               <head>
+                  <hi>Volumes of Sermons, and Tracts Bound,</hi> Quarto.</head>
+               <item>1 FIfteen Sermons Preached on ſeveral occaſions, by <hi>M. Newcomen,</hi> Bp. St. <hi>Davids, R. Gardiner, Ol. Bowles, Ed. Corbett, R. Skynnor, Jo. Lightfoot, G. Warburton, J. Bur<g ref="char:EOLhyphen"/>roughs, Th. Hodges, A. Henderſon, G. Gilleſpir, J. Blenckow, J. Temple, O Sedgwick,</hi> &amp;c.</item>
+               <item>2 <hi>R. Vine<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> Sermon at the Funeral of the Earl of <hi>Eſſex,</hi> with Eighteen more Sermons, by B. <hi>Laud, W. Strong, N. Lockyer, Brightman, Fra. Roberts, <g ref="char:V">Ʋ</g>dall, J. Howſon, R. Holdſworth,</hi> &amp;c.</item>
+               <item>3 Collection of Fifteen Sermons, on ſeveral occaſions, by <hi>E. Roynolds, Bra. Bland, R. Vines, N. Hardy, Balmer, Jo. Bryan, J. Mayne, J. Arrowſmith,</hi> Bp. <hi>Andrews, Marſhall, Greenhill,</hi> &amp;c.</item>
+               <item>4 Fifteen Parliament Sermons, <hi>&amp;c.</hi> Preached by <hi>W. Carter, J. Caryll, Sa. Bolton, J. Caſe, R. Walſon, Sheringham, Edm. Calamy, Ob. Sedgwick, Jer. Burroughs,</hi> &amp;c.</item>
+               <item>5 Volume of Sixteen Sermons, on divers occaſions, by <hi>W. Bridge, Jer. Burroughs, Tho. Fuller, P. Sterry, Joſ. Caryll, C. Downing, R. Bayly, J. Gauden, J. Ley, J. Nal<g ref="char:EOLhyphen"/>ton,</hi> &amp;c.</item>
+               <item>6 <hi>Rob. Gell</hi>'s Sermon to the Aſtrologers, with Twelve more Sermons on ſundry oc<g ref="char:EOLhyphen"/>caſions, by <hi>Jo. Gaule, R. Vines, W. Strong, Er. Cheynell, J. Whitaker,</hi> Bp. <hi>Reynolds, Sa. Hoard, T. Brookes,</hi> &amp;c.</item>
+               <item>7 Collection of Eight ſeveral Treatiſes, Pro and Con, concerning Infant-Baptiſme, by <hi>Tombes, Marſhall, Geree, N. Homes,</hi> &amp;c.</item>
+               <pb n="25" facs="tcp:63472:17"/>
+               <item>8 Several Millenarian Treatiſes concerning Chriſt's Reign on Earth a Thouſand years, the Catholick Moderator, Subverſion of <hi>R. Parſons,</hi> Three Converſions Let<g ref="char:EOLhyphen"/>ter from Sir <hi>Edw. Hobs,</hi> 1609. <hi>&amp;c.</hi>
+               </item>
+               <item>9 Right of Kings in Church and State, 1644. Government of the Church of <hi>Scot<g ref="char:EOLhyphen"/>land</hi> fully declared, Hiſtorical Vindication of the Eccleſiaſtical Diſcipline of the Church of <hi>Scotland,</hi> by <hi>R. Bayly,</hi> 1644. with others</item>
+               <item>10 <hi>Tho. Cobbett</hi> of Baptiſme, <hi>W. Pinchion</hi>'s Meritorious Price of our Redemp<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ion, Juſtification, <hi>&amp;c.</hi> 1650.</item>
+               <item>11 Vindication of Learning, Tract of Schiſme, by <hi>Hale; Hucſon</hi>'s Eſſence and U<g ref="char:EOLhyphen"/>nity of the Catholick Church viſible; Hereticks diſcovered to be Antichriſt, the Anatomy of Independency, with others</item>
+               <item>12 Diſcourſe of Church affairs, Quaeries concerning Ordination, Nature of Epi<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>co<g ref="char:EOLhyphen"/>pacy, Reformation of Church Government in <hi>Scotland,</hi> with others about Church Government.</item>
+               <item>13 <hi>Jo. Ley</hi>'s Sunday a Sabbath, 1641. The Sickneſs, Hereſy, Death and Burial of <hi>W. Chillingworth,</hi> by <hi>Fra. Cheynell,</hi> 1644. <hi>Baylies</hi> Diſſwaſive from Errours; <hi>Sa. Bolton</hi>'s Arraignment of Errour; <hi>Al. Groſſes</hi> Fulneſs of Chriſt</item>
+               <item>14 True Grounds of Eccleſiaſtical Regiment, Articles agreed on by the Clergy, 1562. Directory of Church Government, Sir <hi>Fra. Wortly</hi> of Epiſcopacy, <hi>J. Mil<g ref="char:EOLhyphen"/>ton</hi>'s Doctrine and Diſcipline of Divorce, Bp. <hi>Wilkins</hi> Gift of Preaching, <hi>R. Baro<g ref="char:EOLhyphen"/>nius de formali objecto Fidei,</hi> &amp;c.</item>
+               <item>15 <hi>Noli me tangere, Hackewill</hi> againſt Dr. <hi>Heylin,</hi> touching the Euchariſt, 1641. <hi>Ba<g ref="char:EOLhyphen"/>ſire</hi> of Sacriledge, the Univerſality of God's Free Grace, <hi>Fr. Duke</hi> of the fullneſs and freeneſs of God's Grace in Chriſt, with others.</item>
+               <item>16 Reformers Judgement concerning Ordination, Conſtitutions and Canons Eccleſi<g ref="char:EOLhyphen"/>aſtical, Bp. <hi>Andrews</hi> of Epiſcopacy, Remonſtrance againſt Presbytery, Reformation of Church Diſcipline in <hi>England,</hi> &amp;c. 1641.</item>
+               <item>17 Safeguard from Shipwrack, Diſplay of Arminianiſme, God's Love to Mankind, Power of the Magiſtrate in the Compulſion of Conſcience, Examination of Anti<g ref="char:EOLhyphen"/>nomianiſme, with others.</item>
+               <item>18 Uſe of dayly Publick Prayers, Diſcourſe of Praying <hi>ex tempore,</hi> Child of Light walking in Darkneſs, Treatiſe of Self-Denyal</item>
+               <item>19 Several Treatiſes about Infant-Baptiſme, by <hi>H. Denne, H. Ainſworth,</hi> &amp;c. <hi>Span<g ref="char:EOLhyphen"/>hemius</hi> his Hiſtory of the <hi>Anabaptiſts;</hi> in all to the Number of Eleven.</item>
+               <item>20 Pope <hi>Paul</hi> the Fifth's Bull Anſwered, Catalogue of the Chancellors and Trea<g ref="char:EOLhyphen"/>ſurers of <hi>England,</hi> Genealogy of Popiſh Fryers, Jeſuits, and Monks, A Political Catechiſme, Four Cardinal Vertues of a Carmelite Fryer, <hi>Owen</hi>'s Relation of the Engliſh Seminaries abroad, with divers others</item>
+               <item>21 Liberty of Conſcience Stated, Several Anſwers between the Remonſtrants and Smectymnus, Tracts about taking the Covenant, The True Guide, a Survey of the Temple Myſtical, <hi>&amp;c.</hi>
+               </item>
+               <item>22 Diſcourſe of the Troubles at <hi>Frankford,</hi> 1554. <hi>Ant. Burgeſs</hi> Treatiſe of Sin.</item>
+               <item>23 <hi>Pocklinton</hi>'s Dead Vicars Plea, Holy Table, Name and Thing, <hi>Tho. Gataker</hi>'s God's Eye on his <hi>Iſrael,</hi> Bp. <hi>Andrews</hi> of the Right of Tithes, <hi>Cudworth</hi> on the Sacrament his Union of Chriſt and his Church, and <hi>Spelman de non Temerandis Eccleſiis.</hi>
+               </item>
+               <item>24 Life of K. <hi>Henry</hi> the 3d, Bloody Iriſh Almanack, <hi>W. Lilly</hi>'s <hi>Englands</hi> Prophetical <hi>Merlin,</hi> Diſcourſe of Prince <hi>Henry.</hi> Treatiſe of Uſe and Cuſtom, <hi>H. Spelman de Se<g ref="char:EOLhyphen"/>pultura,</hi> Treatiſe againſt Images in Churches</item>
+               <pb n="26" facs="tcp:63472:18"/>
+               <item>25 Sir <hi>Jo. Temple</hi>'s Hiſtory of the <hi>Iriſh</hi> Rebellion, 1646. <hi>Lud. Capelli Hiſtoria Apoſto<g ref="char:EOLhyphen"/>lica illuſtrata, Geneva, Epiſtola ad Ren. Ver daeum de Epiſcopatu, &amp; Motibus Anglicanis,</hi> 1641. Dr. <hi>Featly</hi> of the Viſible True Church againſt the <hi>Romaniſts,</hi> ſeveral ſorts of <hi>Anabaptiſts</hi>
+               </item>
+               <item>26 Ld. <hi>Digby</hi>'s <hi>Cabinett</hi> of Letters, Diſcourſe of the State Eccleſiaſtical, of <hi>Eng<g ref="char:EOLhyphen"/>land, Fragmenta Regalia,</hi> Obſervations on Queen <hi>Eliz.</hi> her Times and Favourites, Three Speeches of Sir <hi>Fran. Bacon,</hi> Sir <hi>Walter Raleigh</hi>'s Maxims of State, Card. <hi>Woolſey</hi> Negotiations, with his Life and Death.</item>
+               <item>27 <hi>Wotton</hi>'s Life and Death of <hi>G. Viller</hi>'s Duke of <hi>Buckingham,</hi> Life and Death of the Earl of <hi>Eſſex, Gregorie</hi>'s Notes on Scripture, <hi>J. Milton</hi>'s <hi>Tetrachordon, Jo. Lawſon's</hi> Gleanings and Expoſitions on Scripture, with others.</item>
+            </list>
+            <list>
+               <head>
+                  <hi>Bundles of Pamphlets,</hi> Quarto, <hi>viz. Sermons, &amp;c.</hi>
+               </head>
+               <item>1 FOurteen Sermons on the 30th of <hi>January, viz,</hi> by Bp. <hi>Seth Ward,</hi> Dr. <hi>Turner,</hi> Mr. <hi>Pelling, G. Burnett, J. Spratt, G. Hicks, Payne, Stillingfleet,</hi> and others</item>
+               <item>2 Five Coronation Sermons, by Bp. <hi>Brownrig, Rob. D<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>wglaſs,</hi> Bp. of <hi>Worceſter,</hi> &amp;c. with ſix Conſecration Sermons, by <hi>Jer. Taylor, W. Jane, Jo. Sudbury,</hi> &amp;c.</item>
+               <item>3 Sixteen Sermons on the 5th of <hi>November,</hi> by <hi>H. Dove, E. Pelling, W. Jenkins,</hi> Bp. <hi>Ward, Jo. Tillotſon, Edw. Stillingfleet,</hi> Bp. <hi>Wilkins,</hi> Dr. <hi>Cave, G. Hooper,</hi> &amp;c.</item>
+               <item>4 Fourteen Viſitation Sermons, by <hi>Jo. Lowde, Jo. James, R. Neville, Tho. Hackett,</hi> &amp;c.</item>
+               <item>5 Fourteen Aſſize Sermons, by <hi>J. Sayer, W. Durham, Jo. Martin, J. Howes, H Pigott,</hi> &amp;c.</item>
+               <item>6 Sixteen more Aſſize Sermons, by Dr. <hi>Barne</hi>'s, <hi>B. Smith, M. Fowler, Edw. Wettenhall, Jo. Tillotſon, Tho. Willis, N. Stratford, Jo. Byrom, N. Clagett,</hi> &amp;c.</item>
+               <item>7 Sixteen Sermons Preached on Saints days and Holy days, by <hi>S. Patrick, R. Megott, W. Lloyd,</hi> Bp. of <hi>Norwich, Tho. Fuller, Edw. Stillingfleet,</hi> Dr. <hi>Wallis, Iſ. Barrow,</hi> &amp;c.</item>
+               <item>8 Ten Sermons Preached on the 29th of <hi>May, viz.</hi> by Dr. <hi>Heylin, Jo. Horden,</hi> Bp. of <hi>Chicheſter,</hi> Dr. <hi>Lake, J. Duport, Jo. Clarke, H. Hibbert,</hi> &amp;c.</item>
+               <item>9 Fourteen Sermons Preached at ſeveral Country Anniverſary Feaſts, by <hi>R. Megott, Jo. Tillotſon, G. Hickes, Fr. Gregory, E. Pelling, Tho. Pierce,</hi> &amp;c.</item>
+               <item>10 Five Sermons on the Fire of <hi>London,</hi> by <hi>H. Hesketh,</hi> Dr. <hi>Calamy, W. Hopkins,</hi> &amp;c. with Six Sermons Preached before the Artillery, by <hi>R. Megott, J. Scott, T. Spratt, G. Hickes,</hi> &amp;c.</item>
+               <item>11 Six Sermons on publick Faſts, by <hi>W. Jane, Stillingfleet, G. Burnett, S. Patrick,</hi> Bp. of <hi>Canterb.</hi> &amp;c. with Nine Sermons on the laſt Plot, the 9th of <hi>September,</hi> by Dr. <hi>Turner, Tho. Pomfrett, R. Pearſon, E. Pelling, E. Sclater. H. Hesketh,</hi> Dr. <hi>Sherlock,</hi> &amp;c.</item>
+               <item>12 Nine Spittle-Sermons before the Lord Mayor, by Bp. <hi>Dolben, G. Hicks, Tho. Jeniſon, Tho. Hacket, Ed. Reynolds,</hi> &amp;c. with three more before the Mayors at <hi>Guild-Hall</hi> Chappel, <hi>&amp;c.</hi>
+               </item>
+               <item>13 Fourteen Sermons before ſeveral Lord Mayors of <hi>London,</hi> by <hi>Jo. Scot, Jo. Goodman, G. Hicks, Edw. Stillingfleet, Jo. Tillotſon, Jo. Turner,</hi> &amp;c.</item>
+               <item>14 Fourteen Sermons more before the Lord Mayors, by <hi>R. Hancock, R. Kidder, Tho. Man<g ref="char:EOLhyphen"/>ningham,</hi> Bp. <hi>Reynolds, S. Anneſley, Ed. Bowles,—Ralph Venning,</hi> &amp;c.</item>
+               <item>15 Fourteen Sermons more before ſeveral Lord Mayors,—by <hi>B. Woodriffe, A. Little<g ref="char:EOLhyphen"/>ton, Jo. Sharpe, R. Vines, Edw. Young, Jo. Cook, Tho. Jekyll, Ed. Stillingfleet,</hi> &amp;c.</item>
+               <item>16 Fourteen Sermons preached before K. <hi>Charles</hi> II. at <hi>Whitehall, Windſor,</hi> viz. by Dr. <hi>Ed. Stillingfleet, Jo. Tillotſon, Tho. Cartwright, H. Hesketh,</hi> Bp. <hi>Laney,</hi> Bp. of <hi>Tuam, &amp;c.</hi>
+               </item>
+               <item>17 Twelve more Modern Court Sermons, <hi>viz.</hi> by Bp. of <hi>Cheſter, Ed. Stillingfleet, Tho. Pierce,</hi> Dr. <hi>Sudbury, Rich. Alleſtrey, Jo. Tillotſon,</hi> &amp;c.</item>
+               <pb n="27" facs="tcp:63472:18"/>
+               <item>18 Twelve more Modern Court-Sermons, <hi>viz.</hi> by Bp. of <hi>Lincoln,</hi> Bp. of <hi>Norwich,</hi> Dr. <hi>Cradock, Rob. Creyton,</hi> Dr. <hi>Alleſtree, H. James,</hi> Dr. <hi>Tho. Pierce, M. Barnes,</hi> &amp;c.</item>
+               <item>19 Twenty four Sermons preached before the Parliament, <hi>viz.</hi> by <hi>Manton, Vines, Caryl, Caſe, Arrowſmith, Calamy, Owen, Burgeſs,</hi> &amp;c.</item>
+               <item>20 Twenty two Sermons more preached before the Parliament, by <hi>Bridge, Dell, Mar<g ref="char:EOLhyphen"/>ſhall, Hicks, N. Ward, Jo. Owen, Tho. Goodwin, Cokayn, Cheynell, Jenkins,</hi> &amp;c.</item>
+               <item>21 Eighteen Sermons on ſeveral occaſions, <hi>viz.</hi> by <hi>Fr. Spanheim, Tho. Pierce,</hi> Dr. <hi>Fowler,</hi> Dr. <hi>Wallis, Ed. Reynolds,</hi> Dr. <hi>Alleſtree,</hi> D. <hi>Stillingfleet,</hi> Bp. of <hi>Meath,</hi> Dr. <hi>Gauden,</hi> &amp;c.</item>
+               <item>22 Nineteen more Sermons on ſeveral Occaſions, by Bp. <hi>Dolben,</hi> Bp. of <hi>Hereford,</hi> Bp. <hi>Reynolds,</hi> Dr. <hi>Perenchief,</hi> Dr. <hi>Calamy,</hi> Bp. <hi>Sheldon,</hi> &amp;c.</item>
+               <item>23 Eighteen Sermons more on ſeveral Occaſions, by Dr. <hi>Standiſh,</hi> Dr. <hi>Hicks, N. Barns,</hi> Bp. of <hi>Downe, W. Dell, Rich. Carpenter,</hi> &amp;c.</item>
+               <item>24 Eighteen Sermons more on ſeveral Occaſions, viz. <hi>B. Camfield,</hi> Dr. <hi>Wallis, G. Burnet, Luzancy,</hi> Dr. <hi>Sutton,</hi> Bp. of St. <hi>Davids, R. Vines,</hi> Bp. <hi>Taylor,</hi> &amp;c.</item>
+               <item>25 Eighteen Sermons more on ſeveral Occaſions, by <hi>Jo. Humc,</hi> Dr. <hi>Beveridge, Sander<g ref="char:EOLhyphen"/>ſon, W. Gould,</hi> Bp. <hi>Reynolds, Egan, Roſe,</hi> &amp;c.</item>
+               <item>26 Thirty two Sermons on ſeveral Occaſions, <hi>viz.</hi> by <hi>Gataker, Calamy, Gatford,</hi> Bp of <hi>London, Watſon, Lyford, Petley,</hi> &amp;c.</item>
+               <item>27 Twelve Funeral Sermons, E. of <hi>Warwick by Calamy, M. Langham,</hi> by Bp. <hi>Reynolds,</hi> Bp. of <hi>Norwich</hi> by <hi>Lively,</hi> E. of <hi>Warwick</hi> by <hi>A. Walker, M. Baxter</hi> by <hi>Jo. How,</hi> &amp;c.</item>
+               <item>28 Twelve more Funeral Sermons, Sir <hi>R. Fanſhaw</hi> by <hi>Bagſhaw,</hi> E. of <hi>Rocheſter</hi> by <hi>R. Parſons, Ja. Houblon G. Burnet, R. Vines</hi> by Dr. <hi>Jacomb,</hi> Bp. <hi>
+                     <g ref="char:V">Ʋ</g>ſher</hi> by <hi>Jer. Taylor,</hi> &amp;c.</item>
+               <item>29 Twelve more Funeral Sermons, <hi>viz. Laz. Seaman</hi> by <hi>W. Jenkins,</hi> E. <hi>Weſt.</hi> by <hi>Cole,</hi> Sir <hi>Tho. Viner</hi> by <hi>Hen. Hesketh, Tho. Caſe</hi> by <hi>Jacomb, Ez. Tonge</hi> by J. J. &amp;c.</item>
+               <item>30 Twelve more Funeral Sermons, viz. <hi>Tho. Wadſworth</hi> by <hi>R. Bragg,</hi> Lord <hi>Berkley</hi> by <hi>John Pierſon,</hi> Biſhop <hi>Taylor</hi> by Doctor <hi>Ruſt, Robert Rich,</hi> by <hi>John Gauden,</hi> &amp;c.</item>
+               <item>31 Twelve more Funeral Sermons, <hi>viz.</hi> E. of <hi>Pembroke</hi> by the Biſhop of <hi>Carlile,</hi> General <hi>Monck</hi> by Biſhop <hi>Ward, Benjamin Whitchcott</hi> by Dr. <hi>Tillotſon,</hi> King <hi>Charles</hi> the Firſt by <hi>Hardy,</hi> &amp;c.</item>
+               <item>32 Twelve more Funeral Sermons, <hi>viz.</hi> Bp. of <hi>Cheſter</hi> by D. <hi>Lloyd,</hi> Sir <hi>Ed. Godfrey</hi> by <hi>Lloyd, Suſ. Kear</hi> by <hi>Kidder,</hi> Sir <hi>Jo. Finch, P. du Moulin, S. Charnock</hi> by <hi>John Johnſon,</hi> &amp;c.</item>
+               <item>33 A curious Collection of Modern Tracts againſt Popery, by ſeveral Hands, <hi>viz.</hi> Bp. <hi>Barlows</hi> Letter concerning Invocation of Saints, Bp. of <hi>Herefords</hi> Legacy, &amp;c. In all to the number of Thirty one.</item>
+               <item>34 Fifteen ſeveral Tracts concerning Tythes and Church Revenues, Pro and Con.</item>
+               <item>35 Nine ſeveral Treatiſes about Toleration by ſeveral Hands <hi>viz:</hi> Aſheton, <hi>&amp;c.</hi>
+               </item>
+               <item>36 Thirteen ſeveral Tracts of the Quakers <hi>viz.</hi> Mr. <hi>Pen</hi> &amp;c. with ſeveral againſt them.</item>
+               <item>37 Several Treatiſes of the Church Government, <hi>viz.</hi> about Common Prayer, Cere<g ref="char:EOLhyphen"/>monies and with ſeveral Tracts of the Naked Truth Pro and Con, ſeveral An<g ref="char:EOLhyphen"/>wers to Dr. <hi>Stillingfleet</hi>'s Miſchief of Separation, in all to the number of 25</item>
+               <item>38 Twenty nine more Tracts about Church Government, Pro and Con, <hi>viz.</hi> Lloyd of Epiſcopacy and Liturgy. Reaſons of <hi>Oxon</hi> againſt the Covenant Non Conformiſts Plea 3 parts, <hi>&amp;c.</hi>
+               </item>
+               <item>39 Another Collection conſiſting of 32. Tracts <hi>viz.</hi> the Caſes of Conſcience of the Di<g ref="char:EOLhyphen"/>vines of <hi>London</hi> about Communion, Conſcience, Tradition, <hi>&amp;c.</hi>
+               </item>
+               <item>40 Twenty nine more about Church Government, <hi>viz. Grand</hi> debate about the Li<g ref="char:EOLhyphen"/>turgy at the <hi>Savoy,</hi> Bp. <hi>Gauden</hi>'s Reformation of the Liturgy, <hi>Hales</hi> of Schiſme, <hi>&amp;c.</hi>
+               </item>
+               <item>41 Nine Tracts about Infant Baptiſme, Pro and Con. <hi>viz.</hi> by <hi>Hanes, Church,</hi> &amp;c.</item>
+               <pb n="28" facs="tcp:63472:19"/>
+               <item>42 Nine ſeveral Forms of Prayer, with form of making Prieſts and Deacons, with a Collection of Viſitation Articles for ſeveral Places, and Three Tracts of Uſury.</item>
+               <item>43 Miſcellaneous Tracts Number Seventeen, <hi>viz.</hi> Col. <hi>Titus</hi> Killing no Murder, <hi>Emer<g ref="char:EOLhyphen"/>tons</hi> Marriage Conſidered, an Anſwer to <hi>Milton</hi> of Divorce, Excellency of the Roy<g ref="char:EOLhyphen"/>al Hand, in Curing the Kings-Evil, <hi>&amp;c.</hi>
+               </item>
+               <item>44 Collection of State affairs (Number Fourteen) <hi>viz.</hi> Pacquets of Advice to the Men of <hi>Shaftsbury,</hi> two Parts, account of <hi>Scotlands</hi> Grievances, proceedings of the Council in <hi>Scotland,</hi> &amp;c.</item>
+               <item>45 Collection of Letters, Speeches, Meſſages, Declarations, Petit. <hi>&amp;c.</hi> by ſeveral hands.</item>
+               <item>46 Collection of Lives, <hi>viz.</hi> of Bp. <hi>Morton, M. Luther, Jo. Cotton, Henry</hi> the 3d, <hi>Guſtavus Adolphus,</hi> K. <hi>Henry</hi> the 4th, <hi>Herod</hi> the Great, <hi>&amp;c.</hi> Number 11</item>
+               <item>47 Ten Treatiſes of <hi>William Prynne, viz.</hi> of Eccleſiaſtical Juriſdictions, Oaths, Illumi<g ref="char:EOLhyphen"/>nation to <hi>Sion Colledge,</hi> Examination of the Common-Prayer, <hi>&amp;c.</hi>
+               </item>
+               <item>48 Conſiderations about Witches, Relations from <hi>Virginia,</hi> and New <hi>England,</hi> Pro<g ref="char:EOLhyphen"/>ceedings of a Council of <hi>Jews</hi> at <hi>Buda, Jo. Cooke</hi>'s Poor Man's Caſe, <hi>magna Charta,</hi> with Notes, by <hi>E. Coke,</hi> Natural Hiſtory of Coffee, Chocolate, <hi>&amp;c. Kemp</hi> of the Peſtilence, Engliſh Farrier, with Eight more curious Treatiſes</item>
+            </list>
+            <list>
+               <head>
+                  <hi>Bundles of Pamphlets,</hi> in Folio.</head>
+               <item>49 <hi>ALg. Sidney</hi>'s Tryal, Tryal of <hi>Pilkington, Shute, Corniſh,</hi> Ld. <hi>Grey, Miles Prance</hi> his Narrative, <hi>Dangerfield</hi>'s Narrative, <hi>Jenniſon</hi>'s Narrative, <hi>Titus Oates</hi> of the Exorciſmes of the <hi>Papiſts,</hi> and a Narrative of the Plot againſt K. <hi>Charles</hi> the 1ſt.</item>
+               <item>50 Collection of Speeches, Debates, Proceedings of the Houſe of Commons about the Popiſh Plot, againſt our Religion and Liberties, Cabal of Jeſuits diſcovered, Apology for the Students of <hi>Edenborow</hi> Burning the Pope, Letter about the Suc<g ref="char:EOLhyphen"/>ceſſion, written to a Parliament Man, with a Collection of Addreſſes, Meſſages, Orders, Votes, Debates, Reports, Reſolutions, Declarations, Speeches by King and Chancellor, and of the Five Jeſuits at <hi>Tiburn,</hi> Vindication of the Earl of <hi>Shafts<g ref="char:EOLhyphen"/>bury,</hi> 1682. Judgement and Decree of the Univerſity of <hi>Oxford,</hi> in their Convo<g ref="char:EOLhyphen"/>cation, 1683. againſt pernicious Books</item>
+            </list>
+            <p>
+               <hi>THere will be alſo expoſed to Sale the ſame way, in the Cloſe of the Auction, a Large Collection of Scarce and Curious Tracts and Pamphlets, Ancient and Modern, of moſt Subjects</hi> (different from theſe Printed in the Catalogue) <hi>in Bundles; the Names and Deſigns of which, will be Read, and Number told at the time of Sale.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:63472:19" rendition="simple:additions"/>
+         </div>
+      </body>
+   </text>
+</TEI>
